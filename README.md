@@ -1,4 +1,4 @@
-##👤 About Me
+# 👤 About Me
 
 Hi! I'm Muhammad Zafran
 🎓 3rd Semester Artificial Intelligence Student at Institute of Management Sciences (IMSciences), Peshawar
@@ -9,7 +9,7 @@ Primary Interests: Machine Learning, Artificial Intelligence, and Robotics
 
 Career Goal: To become a leading engineer and innovator in AI and ML fields
 
-Current Focus Areas:
+### Current Focus Areas:
 
 Advanced Data Structures and Algorithms
 
@@ -19,7 +19,7 @@ Multivariable Calculus
 
 AI/ML Foundations
 
-#🛠️ Technical Skills & Proficiencies
+## 🛠️ Technical Skills & Proficiencies
 
 💻 Programming Languages
 Python - Primary language for AI/ML projects
@@ -28,7 +28,7 @@ C++ - Core language for data structures and system programming
 
 Web Technologies - HTML, CSS for front-end development
 
-#🔧 Technical Domains
+## 🔧 Technical Domains
 
 Data Structures & Algorithms - Strong foundation in problem-solving
 
