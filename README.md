@@ -9,15 +9,52 @@ Primary Interests: Machine Learning, Artificial Intelligence, and Robotics
 
 Career Goal: To become a leading engineer and innovator in AI and ML fields
 
-### Current Focus Areas:
 
-Advanced Data Structures and Algorithms
 
-Operating Systems (Linux environment)
 
-Multivariable Calculus
+# 🔬 Current Focus & Deep Dives
 
-AI/ML Foundations
+I am actively engaged in deepening my knowledge in the following key areas:
+
+## 🧠 Advanced Data Structures & Algorithms
+- **Focus:** Designing and analyzing efficient solutions to complex computational problems.
+- **Details:** Exploring graph algorithms, dynamic programming, greedy methods, and advanced tree structures (e.g., AVL, B-Trees). I'm honing my problem-solving skills to write optimized and scalable code.
+- **Tools:** Primarily C++ and Python, with a strong emphasis on time/space complexity analysis.
+
+## ⚙️ Operating Systems (Linux Environment)
+- **Focus:** Understanding the bedrock of computing—how systems manage resources and execute programs.
+- **Details:** Delving into process scheduling, memory management (paging, segmentation), concurrency, file systems, and inter-process communication (IPC). My practical environment is the Linux command line, where I explore these concepts hands-on.
+- **Tools:** Linux (Bash scripting, kernel modules, system calls), C.
+
+##  📈 Multivariable Calculus
+- **Focus:** Building the mathematical language for understanding multi-dimensional systems and continuous change.
+- **Details:** Mastering concepts like partial derivatives, multiple integrals, gradient vectors, and optimization. This forms the crucial mathematical backbone for the models in my AI/ML studies.
+- **Applications:** Gradient descent in machine learning, 3D graphics, and physical simulations.
+
+##  🤖 AI/ML Foundations
+- **Focus:** Laying the groundwork for intelligent systems by understanding core theory and practice.
+- **Details:** Studying fundamental machine learning models (linear/logistic regression, SVMs, decision trees), neural network architectures, and the mathematics of learning. I'm focused on building a strong conceptual foundation before diving into advanced frameworks.
+- **Tools:** Python, NumPy, Pandas, Scikit-learn.
+
+## 🔌 Digital Logic Design (DLD)
+- **Focus:** Comprehending computing from the ground up—from transistors to processors.
+- **Details:** Working with Boolean algebra, logic gates, combinational and sequential circuits (multiplexers, flip-flops), and finite state machines. This knowledge bridges the gap between abstract software and physical hardware.
+- **Tools:** Logisim, Verilog/VHDL.
+
+## 🕸️ Discrete Structures
+- **Focus:** The mathematics of computer science—the language of logic, sets, and relations.
+- **Details:** Applying principles of logic, proof techniques, graph theory, combinatorics, and recurrence relations. This is the essential toolkit for formal reasoning about algorithms and computational complexity.
+
+## 💡 The Synergy
+
+I find the intersection of these fields fascinating. For instance:
+*   **Algorithms & OS:** How does a scheduling algorithm impact system performance?
+*   **Calculus & ML:** How do gradients guide a model's learning process?
+*   **DLD & OS:** How is concurrency implemented at the hardware level?
+*   **Discrete Math & Algorithms:** How do we formally prove an algorithm's
+
+
+
 
 ## 🛠️ Technical Skills & Proficiencies
 
