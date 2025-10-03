@@ -38,7 +38,7 @@ Computer Fundamentals - Comprehensive understanding of computer architecture
 
 Mathematical Foundations - Multivariable calculus and linear algebra
 
-#🚀 Repository Purpose & Vision
+# 🚀 Repository Purpose & Vision
 
 🎯 Primary Objectives
 Centralized Learning Hub: Organize all data structure lab solutions in one accessible location
@@ -49,5 +49,5 @@ Collaborative Learning: Share solutions and insights with classmates and future 
 
 Career Foundation: Build robust fundamentals for advanced studies in AI, machine learning, and algorithms
 
-#🌟 Long-term Vision
+## 🌟 Long-term Vision
 This repository represents my journey toward mastering the fundamental building blocks of computer science, essential for success in artificial intelligence and machine learning fields.
