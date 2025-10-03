@@ -3,7 +3,7 @@
 Hi! I'm Muhammad Zafran
 🎓 3rd Semester Artificial Intelligence Student at Institute of Management Sciences (IMSciences), Peshawar
 
-#🎯 Academic Focus & Career Aspirations
+# 🎯 Academic Focus & Career Aspirations
 
 Primary Interests: Machine Learning, Artificial Intelligence, and Robotics
 
