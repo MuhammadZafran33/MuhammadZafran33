@@ -116,6 +116,31 @@ I am actively engaged in deepening my knowledge in the following key areas:
 - **Focus:** The mathematics of computer science—the language of logic, sets, and relations.
 - **Details:** Applying principles of logic, proof techniques, graph theory, combinatorics, and recurrence relations. This is the essential toolkit for formal reasoning about algorithms and computational complexity.
 
+```mermaid
+gantt
+    title AI Learning Journey Timeline
+    dateFormat  YYYY-MM
+    axisFormat  %b %Y
+    
+    section Data Structures
+    Basic DSA           :done, 2024-01, 2024-03
+    Advanced Algorithms :active, 2024-04, 2024-08
+    AI-Optimized DS     :2024-09, 2025-01
+    
+    section Core CS
+    Operating Systems   :active, 2024-02, 2024-06
+    Computer Architecture:2024-07, 2024-10
+    
+    section Mathematics
+    Calculus & Linear Alg :active, 2024-01, 2024-05
+    Discrete Mathematics  :2024-06, 2024-09
+    
+    section AI/ML
+    Foundations         :2024-03, 2024-07
+    Advanced ML         :2024-08, 2025-02
+    AI Projects         :2024-11, 2025-06
+```
+
 ## 💡 The Synergy
 
 I find the intersection of these fields fascinating. For instance:
