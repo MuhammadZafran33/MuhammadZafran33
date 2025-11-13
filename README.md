@@ -1,3 +1,14 @@
+🚀 Muhammad Zafran - AI Student & Future Innovator
+<div align="center">
+https://img.shields.io/badge/AI-ML%2520Enthusiast-blueviolet
+https://img.shields.io/badge/IMSciences-Peshawar-success
+https://img.shields.io/badge/3rd-Semester-informational
+https://img.shields.io/badge/Open%2520Source-Contributor-green
+
+</div>
+
+
+
 # 👤 About Me
 
 Hi! I'm Muhammad Zafran
