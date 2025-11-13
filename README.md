@@ -160,8 +160,35 @@ Knowledge Reinforcement: Strengthen understanding of core computer science conce
 Collaborative Learning: Share solutions and insights with classmates and future students
 
 Career Foundation: Build robust fundamentals for advanced studies in AI, machine learning, and algorithms
+```mermaid
+graph TB
+    Root[MuhammadZafran33<br>GitHub Profile]
+    
+    Root --> DS[Data-Structures<br>lab-Solutions]
+    Root --> Web[Web-Development<br>Notebook]
+    Root --> Cpp[C++ Lab<br>Programs]
+    Root --> Projects[C++ Lab<br>Projects]
+    Root --> Book[Tony Gaddis<br>Solutions]
+    
+    DS --> DS1[Linked Lists]
+    DS --> DS2[Stacks/Queues]
+    DS --> DS3[Sorting Algorithms]
+    DS --> DS4[Tree Structures]
+    
+    Web --> Web1[HTML Projects]
+    Web --> Web2[CSS Styling]
+    Web --> Web3[Frontend Basics]
+    
+    style Root fill:#ff6b6b
+    style DS fill:#4ecdc4
+    style Web fill:#45b7d1
+    style Cpp fill:#96ceb4
+    style Projects fill:#feca57
+    style Book fill:#ff9ff3
 
-## 🌟 Long-term Vision
+```
+
+# 🌟 Long-term Vision
 This repository represents my journey toward mastering the fundamental building blocks of computer science, essential for success in artificial intelligence and machine learning fields.
 
 # 📚 Comprehensive Topics Coverage
