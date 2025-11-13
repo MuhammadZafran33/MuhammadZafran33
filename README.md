@@ -145,11 +145,12 @@ gantt
 
 ```mermaid
 graph TD
-    Jan[January] --> Feb[February]
-    Feb --> Mar[March]
-    Mar --> Apr[April]
-    Apr --> May[May]
-    May --> Jun[June]
+    Jun[June] --> Jul[July]
+    Jul --> Aug[August]
+    Aug --> Sep[September]
+    Sep --> Oct[October]
+    Oct --> Nov[Novemebr]
+    Nov --> Dec[December]
     
     Jun --> C1[High Activity]
     Jul --> C2[Medium Activity]
@@ -164,7 +165,7 @@ graph TD
     style C6 fill:#2ecc71
     style C2 fill:#f39c12
     style C5 fill:#f39c12
-    style C4 fill:#e74c3c
+    style C4 fill:#f39c12
 ```
 
 ## 💡 The Synergy
@@ -236,6 +237,7 @@ graph TB
     style Cpp fill:#96ceb4
     style Projects fill:#feca57
     style Book fill:#ff9ff3
+     style Cpp fill:#96ceb4
 
 ```
 
