@@ -102,7 +102,11 @@ I find the intersection of these fields fascinating. For instance:
 
 ---
 
-
+pie title Learning Progress Distribution
+    "Completed" : 25
+    "In Progress" : 45
+    "Upcoming" : 30
+    
 ## 🛠️ Technical Skills & Proficiencies
 
 💻 Programming Languages
