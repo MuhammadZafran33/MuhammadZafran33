@@ -1,3 +1,34 @@
+# 💫 Muhammad Zafran 
+### *AI Visionary in the Making* 🤖
+
+---
+
+## 🎓 About Me
+**3rd Semester Artificial Intelligence Student**  
+🏛️ **Institute of Management Sciences (IMSciences), Peshawar**  
+🌟 *Passionate about pushing the boundaries of intelligent systems*
+
+---
+
+## 🎯 Mission & Vision
+> **"Mastering fundamentals today to build intelligent systems tomorrow"**
+
+### 🚀 Career Aspiration
+**Become a leading engineer and innovator in AI and ML fields**
+
+---
+
+## 🔥 Current Deep Dives
+
+### 🧠 **Advanced Data Structures & Algorithms**
+- **Focus:** System resource management & execution
+- **Expertise:** Process scheduling, Memory management, Concurrency
+- **Tools:** Linux 🐧 | Bash | System Programming
+
+### 📊 **Multivariable Calculus**
+
+
+
 
 # 👤 About Me
 
