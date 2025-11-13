@@ -499,28 +499,37 @@ Non-commercial: Free for academic and personal use
 Sharing Knowledge: Spread the learning and help others
 
 ---
-# 📞 Connect With Me
-<div align="center">
-    
+## 📞 Connect With Me
+
 ```mermaid
- graph LR
-    A[🤵 Muhammad Zafran] --> B[📧 Email]
-    A --> C[📱 WhatsApp]
-    A --> D[💻 GitHub]
-    A --> E[🏫 IMSciences]
-    
-    B --> B1[zafrankhaan33@gmail.com]
-    C --> C1[0324-9854807]
-    D --> D1[MuhammadZafran33]
-    E --> E1[Artificial Intelligence]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57    
+graph LR
+    A[🤵 Muhammad Zafran]:::main
+    B[📧 Email]:::email
+    C[📱 WhatsApp]:::whatsapp
+    D[💻 GitHub]:::github
+    E[🏫 IMSciences]:::education
+
+    B1[zafrankhaan33@gmail.com]:::sub
+    C1[0324-9854807]:::sub
+    D1[github.com/MuhammadZafran33]:::sub
+    E1[Artificial Intelligence Student]:::sub
+
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    B --> B1
+    C --> C1
+    D --> D1
+    E --> E1
+
+    classDef main fill:#ff6b6b,stroke:#c0392b,stroke-width:3px,color:#fff,font-size:16px;
+    classDef email fill:#4ecdc4,stroke:#26a69a,color:#fff,font-size:14px;
+    classDef whatsapp fill:#45b7d1,stroke:#0288d1,color:#fff,font-size:14px;
+    classDef github fill:#96ceb4,stroke:#388e3c,color:#fff,font-size:14px;
+    classDef education fill:#feca57,stroke:#f39c12,color:#fff,font-size:14px;
+    classDef sub fill:#f7f9f9,stroke:#dfe6e9,color:#2d3436,font-size:13px;
 ```
-</div>
 
 <div align="center">
 🌟 "Mastering fundamentals today to build intelligent systems tomorrow" 🌟
