@@ -202,6 +202,14 @@ Python - Primary language for AI/ML projects
 C++ - Core language for data structures and system programming
 
 Web Technologies - HTML, CSS for front-end development
+```mermaid
+xychart-beta
+    title "Technical Skills Proficiency"
+    x-axis ["DSA", "OS", "Calculus", "AI/ML", "DLD", "Discrete Math"]
+    y-axis "Proficiency" 0 --> 100
+    bar [85, 70, 80, 65, 75, 70]
+    line [85, 70, 80, 65, 75, 70]
+```
 
 ## 🔧 Technical Domains
 
