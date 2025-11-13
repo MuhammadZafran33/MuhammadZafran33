@@ -168,6 +168,21 @@ graph TD
     style C4 fill:#f39c12
 ```
 
+```mermaid
+timeline
+    title Learning Milestones
+    2024
+        Jan : Started Advanced DSA
+        Feb : Linux System Mastery
+        Mar : Multivariable Calculus
+        Apr : AI/ML Foundations
+        May : Digital Logic Design
+        Jun : Discrete Structures
+    2024-25
+        Jul-Dec : Advanced AI Projects
+        : Robotics Integration
+        : Research Publications
+```        
 ## 💡 The Synergy
 
 I find the intersection of these fields fascinating. For instance:
