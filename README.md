@@ -9,6 +9,34 @@
 🌟 *Passionate about pushing the boundaries of intelligent systems*
 
 ---
+## 🧠 AI Learning Journey
+
+```mermaid
+flowchart TD
+    A[🎯 AI Career Vision] --> B[🧩 Core Foundations]
+    
+    B --> C[🧠 Data Structures]
+    B --> D[⚙️ Operating Systems]
+    B --> E[📐 Mathematics]
+    B --> F[🤖 AI/ML Theory]
+    
+    C --> C1[Advanced Algorithms]
+    C --> C2[Complexity Analysis]
+    
+    D --> D1[Linux Environment]
+    D --> D2[System Programming]
+    
+    E --> E1[Multivariable Calculus]
+    E --> E2[Discrete Structures]
+    
+    F --> F1[Neural Networks]
+    F --> F2[Machine Learning]
+    
+    C1 & D1 & E1 & F1 --> G[🚀 AI Systems Development]
+    C2 & D2 & E2 & F2 --> G
+    
+    G --> H[🎯 Future AI Innovator]
+
 
 ## 🎯 Mission & Vision
 > **"Mastering fundamentals today to build intelligent systems tomorrow"**
@@ -19,10 +47,6 @@
 ---
 
 
-# 👤 About Me
-
-### Hi! I'm Muhammad Zafran
-🎓 3rd Semester Artificial Intelligence Student at Institute of Management Sciences (IMSciences), Peshawar
 
 # 🎯 Academic Focus & Career Aspirations
 
