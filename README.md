@@ -56,6 +56,30 @@ Primary Interests: Machine Learning, Artificial Intelligence, and Robotics
 Career Goal: To become a leading engineer and innovator in AI and ML fields
 
 
+```mermaid
+mindmap
+  root((AI Engineering))
+    CS Fundamentals
+      Data Structures
+        Algorithms
+        Optimization
+      Operating Systems
+        Linux
+        System Programming
+    Mathematics
+      Calculus
+        Gradient Descent
+      Linear Algebra
+      Discrete Math
+    AI/ML Core
+      Machine Learning
+      Neural Networks
+      Deep Learning
+    Applications
+      Robotics
+      Computer Vision
+      NLP
+```
 
 ---
 
@@ -102,10 +126,6 @@ I find the intersection of these fields fascinating. For instance:
 
 ---
 
-pie title Learning Progress Distribution
-    "Completed" : 25
-    "In Progress" : 45
-    "Upcoming" : 30
     
 ## 🛠️ Technical Skills & Proficiencies
 
@@ -127,6 +147,8 @@ Computer Fundamentals - Comprehensive understanding of computer architecture
 Mathematical Foundations - Multivariable calculus and linear algebra
 
 ---
+
+
 
 # 🚀 Repository Purpose & Vision
 
