@@ -140,7 +140,30 @@ gantt
     Advanced ML         :2024-08, 2025-02
     AI Projects         :2024-11, 2025-06
 ```
+# 📈 Contribution Activity
+```mermaid
+graph TD
+    Jan[January] --> Feb[February]
+    Feb --> Mar[March]
+    Mar --> Apr[April]
+    Apr --> May[May]
+    May --> Jun[June]
+    
+    Jan --> C1[High Activity]
+    Feb --> C2[Medium Activity]
+    Mar --> C3[High Activity]
+    Apr --> C4[Low Activity]
+    May --> C5[Medium Activity]
+    Jun --> C6[High Activity]
+    
+    style C1 fill:#2ecc71
+    style C3 fill:#2ecc71
+    style C6 fill:#2ecc71
+    style C2 fill:#f39c12
+    style C5 fill:#f39c12
+    style C4 fill:#e74c3c
 
+    ```
 ## 💡 The Synergy
 
 I find the intersection of these fields fascinating. For instance:
