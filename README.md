@@ -285,7 +285,13 @@ Multi-dimensional arrays
 
 Array operations and algorithms
 
-## 🔄 In Progress Topics
+# 🎯 Current Progress Status
+```mermaid
+pie title Learning Progress Distribution
+    "Completed" : 25
+    "In Progress" : 45
+    "Upcoming" : 30
+```
 Linked Lists
 
 Singly Linked Lists (implementation, traversal, operations)
