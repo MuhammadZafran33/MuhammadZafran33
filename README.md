@@ -500,13 +500,28 @@ Sharing Knowledge: Spread the learning and help others
 
 ---
 # 📞 Connect With Me
-GitHub: MuhammadZafran-IMSCIENCES
-
-Email: zafrankhaan33@gmail.com
-
-Institution: Institute of Management Sciences, Peshawar
-
-Program: BSc Artificial Intelligence
+<div align="center">
+    
+    ```mermaid
+    graph LR
+    A[🤵 Muhammad Zafran] --> B[📧 Email]
+    A --> C[📱 WhatsApp]
+    A --> D[💻 GitHub]
+    A --> E[🏫 IMSciences]
+    
+    B --> B1[zafrankhaan33@gmail.com]
+    C --> C1[0324-9854807]
+    D --> D1[MuhammadZafran33]
+    E --> E1[Artificial Intelligence]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#feca57
+    
+    ```
+</div>
 
 <div align="center">
 🌟 "Mastering fundamentals today to build intelligent systems tomorrow" 🌟
