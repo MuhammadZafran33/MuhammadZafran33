@@ -502,8 +502,8 @@ Sharing Knowledge: Spread the learning and help others
 # 📞 Connect With Me
 <div align="center">
     
-    ```mermaid
-    graph LR
+```mermaid
+ graph LR
     A[🤵 Muhammad Zafran] --> B[📧 Email]
     A --> C[📱 WhatsApp]
     A --> D[💻 GitHub]
@@ -518,9 +518,8 @@ Sharing Knowledge: Spread the learning and help others
     style B fill:#4ecdc4
     style C fill:#45b7d1
     style D fill:#96ceb4
-    style E fill:#feca57
-    
-    ```
+    style E fill:#feca57    
+```
 </div>
 
 <div align="center">
