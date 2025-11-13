@@ -1,5 +1,5 @@
 # 💫 Muhammad Zafran 
-### *AI Visionary in the Making* 🤖
+# *AI Visionary in the Making* 🤖
 
 ---
 
@@ -17,17 +17,6 @@
 **Become a leading engineer and innovator in AI and ML fields**
 
 ---
-
-## 🔥 Current Deep Dives
-
-### 🧠 **Advanced Data Structures & Algorithms**
-- **Focus:** System resource management & execution
-- **Expertise:** Process scheduling, Memory management, Concurrency
-- **Tools:** Linux 🐧 | Bash | System Programming
-
-### 📊 **Multivariable Calculus**
-
-
 
 
 # 👤 About Me
