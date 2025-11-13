@@ -37,6 +37,7 @@ flowchart TD
     
     G --> H[🎯 Future AI Innovator]
 
+```
 
 ## 🎯 Mission & Vision
 > **"Mastering fundamentals today to build intelligent systems tomorrow"**
