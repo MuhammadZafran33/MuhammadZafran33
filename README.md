@@ -1,6 +1,8 @@
-# 💫 Muhammad Zafran 
-# *AI Visionary in the Making* 🤖
+<center>
 
+# 🎓 Muhammad Zafran 
+
+</center># 
 ---
 
 ## 🎓 About Me
