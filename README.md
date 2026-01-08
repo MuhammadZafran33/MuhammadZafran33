@@ -1,8 +1,5 @@
-<center>
+<h1 align="center"> 🎓 Muhammad Zafran </h1>
 
-# 🎓 Muhammad Zafran 
-
-</center># 
 ---
 
 ## 🎓 About Me
