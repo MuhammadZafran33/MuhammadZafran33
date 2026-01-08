@@ -472,8 +472,10 @@ mindmap
 🌟 "Mastering fundamentals today to build intelligent systems tomorrow" 🌟
 This repository represents my commitment to excellence in computer science fundamentals and my journey toward becoming an AI expert.
 
-</div>                                                                                                                                                                                    
+</div>         
+                                                                                                                                                 
 ⭐ If you find this repository helpful, please consider giving it a star! ⭐
+
 ---
 ---
 
