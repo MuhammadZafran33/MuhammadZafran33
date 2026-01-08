@@ -308,48 +308,8 @@ Linked list-based implementations
 
 Applications in problem-solving
 
-## 📌 Upcoming Topics
-Searching and Sorting Algorithms
+---
 
-Linear Search, Binary Search
-
-Bubble Sort, Selection Sort, Insertion Sort
-
-Advanced: Quick Sort, Merge Sort, Heap Sort
-
-Tree Data Structures
-
-Binary Search Trees (BST)
-
-AVL Trees (self-balancing BST)
-
-Tree traversals: Inorder, Preorder, Postorder
-
-Graph Algorithms
-
-Graph representations (Adjacency Matrix, List)
-
-Depth-First Search (DFS)
-
-Breadth-First Search (BFS)
-
-Shortest Path Algorithms (Dijkstra's)
-
-Hashing Techniques
-
-Hash functions and tables
-
-Collision resolution strategies
-
-Applications in data retrieval
-
-Complexity Analysis
-
-Big O, Omega, Theta notations
-
-Time and space complexity calculations
-
-Algorithm efficiency comparison
 
 ## ⚙️ Installation & Setup Guide
 Prerequisites
@@ -362,38 +322,23 @@ Code Editor (VS Code, CLion, or any preferred IDE)
 ---
 
 # 🧑‍💻 Learning Outcomes & Objectives
-🎯 Core Competencies Developed
+## 🎯 Core Competencies Developed
 Deep Understanding of Data Structures
-
 Internal workings and memory management
-
 Appropriate use cases for each structure
-
 Efficiency trade-offs and considerations
-
 Advanced Problem-Solving Skills
-
 Algorithmic thinking and pattern recognition
-
 Optimization techniques and efficiency analysis
-
 Debugging and testing methodologies
-
 C++ Programming Mastery
-
 Memory management and pointers
-
 Object-oriented programming concepts
-
 Standard Template Library (STL) utilization
-
 Mathematical Foundation
-
 Complexity analysis and Big O notation
-
 Recursive thinking and mathematical induction
-
-Discrete mathematics applications
+Discrete mathematics applications.
 
 ## 🔬 Research & Development Skills
 Code Documentation: Comprehensive commenting and explanation
