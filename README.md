@@ -9,7 +9,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0324--9854807-25D366?style=flat-square&logo=whatsapp)](https://wa.me/923249854807)
 [![GitHub](https://img.shields.io/badge/GitHub-MuhammadZafran33-black?style=flat-square&logo=github)](https://github.com/MuhammadZafran33)
 
-**3rd Semester AI Student** | **IMSciences, Peshawar** | **Pakistan** 🇵🇰
+**4th Semester AI Student** | **IMSciences, Peshawar** | **Pakistan** 🇵🇰
 
 *"Mastering fundamentals today to build intelligent systems tomorrow"*
 
@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **3rd semester Artificial Intelligence student** at **Institute of Management Sciences (IMSciences), Peshawar**, dedicated to building a strong foundation in computer science fundamentals while pursuing my vision of becoming a leading **AI/ML engineer and innovator**.
+I'm a passionate **4th semester Artificial Intelligence student** at **Institute of Management Sciences (IMSciences), Peshawar**, dedicated to building a strong foundation in computer science fundamentals while pursuing my vision of becoming a leading **AI/ML engineer and innovator**.
 
 My learning journey focuses on the synergistic development of core competencies across:
 - 🧠 **Data Structures & Algorithms** - Building efficient solutions
