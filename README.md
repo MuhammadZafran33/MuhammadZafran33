@@ -38,9 +38,9 @@ My learning journey focuses on the synergistic development of core competencies 
 │  🎯 MISSION STATEMENT                       │
 ├─────────────────────────────────────────────┤
 │  "Transform theoretical knowledge into      │
-│   practical AI solutions that impact       │
-│   society and push technological          │
-│   boundaries"                              │
+│   practical AI solutions that impact        │
+│   society and push technological            │
+│   boundaries"                               │
 └─────────────────────────────────────────────┘
 ```
 
@@ -300,14 +300,14 @@ Expertise Map:
 ┌────────────────────────────────────────┐
 │ Arrays & Dynamic Memory      ████████░ │
 │ Linked Lists (All Variants)  █████████ │
-│ Stacks & Queues             ████████░ │
-│ Trees (BST, AVL, B-Tree)    ████████░ │
-│ Graphs (BFS, DFS, Dijkstra) ███████░░ │
-│ Sorting Algorithms          ████████░ │
-│ Search Techniques           ████████░ │
-│ Greedy Algorithms           ███████░░ │
-│ Dynamic Programming         ██████░░░ │
-│ Complexity Analysis         ████████░ │
+│ Stacks & Queues             ████████░  │
+│ Trees (BST, AVL, B-Tree)    ████████░  │
+│ Graphs (BFS, DFS, Dijkstra) ███████░░  │
+│ Sorting Algorithms          ████████░  │
+│ Search Techniques           ████████░  │
+│ Greedy Algorithms           ███████░░  │
+│ Dynamic Programming         ██████░░░  │
+│ Complexity Analysis         ████████░  │
 └────────────────────────────────────────┘
 ```
 
@@ -417,8 +417,8 @@ ACTIVE PROJECT DASHBOARD
 ╠════════════════════════════════════════╣
 ║ Institution: IMSciences, Peshawar      ║
 ║ Program: B.S. Artificial Intelligence  ║
-║ Current Semester: 3rd                  ║
-║ Expected Graduation: 2026              ║
+║ Current Semester: 4th                  ║
+║ Expected Graduation: 2028              ║
 ║ Primary Focus: AI/ML & Robotics        ║
 ║ GPA: Maintaining Excellence            ║
 ║ Status: Active Learning & Development  ║
@@ -434,14 +434,14 @@ ACTIVE PROJECT DASHBOARD
 ```
 LEARNING METRICS DASHBOARD
 ╔═══════════════════════════════════════════════╗
-║ Code Quality              ████████░░  80%    ║
-║ Documentation             ███████░░░  70%    ║
-║ Completeness              ██████░░░░  60%    ║
-║ Performance Optimization  ███████░░░  70%    ║
-║ Problem-Solving Speed     ████████░░  80%    ║
-║ Algorithmic Complexity    ███████░░░  70%    ║
-║ Community Contribution    ████░░░░░░  40%    ║
-║ Research & Innovation     ████░░░░░░  40%    ║
+║ Code Quality              ████████░░  80%     ║
+║ Documentation             ███████░░░  70%     ║
+║ Completeness              ██████░░░░  60%     ║
+║ Performance Optimization  ███████░░░  70%     ║
+║ Problem-Solving Speed     ████████░░  80%     ║
+║ Algorithmic Complexity    ███████░░░  70%     ║
+║ Community Contribution    ████░░░░░░  40%     ║
+║ Research & Innovation     ████░░░░░░  40%     ║
 ╚═══════════════════════════════════════════════╝
 ```
 
@@ -510,10 +510,10 @@ LEARNING METRICS DASHBOARD
 ║ Total Commits:           150+              ║
 ║ Code Contributions:      2500+ lines       ║
 ║ Documentation:           500+ KB           ║
-║ Followers:               Growing 📈        ║
+║ Followers:               Growing 📈       ║
 ║ Following:               50+               ║
 ║ Stars Received:          25+               ║
-║ Last Active:             This Week ⚡      ║
+║ Last Active:             This Week ⚡     ║
 ╚════════════════════════════════════════════╝
 ```
 
@@ -612,12 +612,12 @@ This repository and all its contents are available under the **Educational Purpo
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║     Thank you for visiting my GitHub profile!       ║
+║     Thank you for visiting my GitHub profile!        ║
 ║                                                      ║
-║  "Mastering fundamentals today to build             ║
+║  "Mastering fundamentals today to build              ║
 ║   intelligent systems tomorrow"                      ║
 ║                                                      ║
-║  Let's connect and collaborate on amazing projects! ║
+║  Let's connect and collaborate on amazing projects!  ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
