@@ -35,7 +35,7 @@ My learning journey focuses on the synergistic development of core competencies 
 
 ```
 ┌─────────────────────────────────────────────┐
-│  🎯 MISSION STATEMENT                       │
+│  🎯 MISSION STATEMENT                      │
 ├─────────────────────────────────────────────┤
 │  "Transform theoretical knowledge into      │
 │   practical AI solutions that impact        │
