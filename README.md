@@ -89,12 +89,19 @@ System Design                  █████████░░░░░░░�
 ┌─────────────────────────────────────────────────────────┐
 │                 TECHNICAL ARSENAL                       │
 ├─────────────────────────────────────────────────────────┤
-│ Languages:   C++ ▓▓▓▓▓▓▓▓░░  Python ▓▓▓▓▓▓▓░░░        │
-│              JavaScript ▓▓▓░░░░░░░                      │
-│ Data Tools:  NumPy ▓▓▓░░░  Pandas ▓▓▓░░░              │
-│ ML Tools:    Scikit-learn ▓▓░░░ TensorFlow ▓░░░       │
-│ Development: Git ▓▓▓▓░░░░  Linux ▓▓▓▓░░░░             │
-│ Web:         HTML ▓▓▓▓░░░░  CSS ▓▓▓░░░░░              │
+│ Languages: C++ ▓▓▓▓▓▓▓▓░░                               |
+          Python ▓▓▓▓▓▓▓░░░                               │
+│     JavaScript ▓▓▓░░░░░░░                               |
+|                                                         |            
+│
+│ Data Tools:  NumPy ▓▓▓░░░
+|             Pandas ▓▓▓░░░
+|
+│ ML Tools:    Scikit-learn ▓▓░░░
+                 TensorFlow ▓░░░                            |
+
+│ Development: Git ▓▓▓▓░░░░  Linux ▓▓▓▓░░░░               │
+│ Web:         HTML ▓▓▓▓░░░░  CSS ▓▓▓░░░░░                │
 └─────────────────────────────────────────────────────────┘
 ```
 
