@@ -1,3 +1,4 @@
+![Skills Dashboard](SKILLS-DASHBOARD.svg)
 <div align="center">
 
 # 🤖 **MUHAMMAD ZAFRAN** 🤖
