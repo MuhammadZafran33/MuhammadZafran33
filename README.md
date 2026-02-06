@@ -3,594 +3,378 @@
 # 🤖 **MUHAMMAD ZAFRAN** 🤖
 ### AI/ML Engineer | Data Structures Expert | Future Innovator
 
-<br>
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                 🌟 WELCOME TO MY PROFILE 🌟               ║
-║                                                            ║
-║  "Mastering Fundamentals Today to Build Intelligent       ║
-║   Systems Tomorrow"                                        ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-![GitHub followers](https://img.shields.io/github/followers/MuhammadZafran33?style=social&label=Follow)
-![GitHub Stars](https://img.shields.io/github/stars/MuhammadZafran33?style=social)
-![](https://img.shields.io/badge/2nd_Year_AI_Student-IMSciences_Peshawar-blue?style=flat-square)
-![](https://img.shields.io/badge/Passion-🔥🔥🔥🔥🔥-red?style=flat-square)
-
-<br>
+[![GitHub followers](https://img.shields.io/github/followers/MuhammadZafran33?style=social&label=Follow)](https://github.com/MuhammadZafran33)
+[![GitHub Stars](https://img.shields.io/github/stars/MuhammadZafran33?style=social)](https://github.com/MuhammadZafran33)
 
 </div>
 
 ---
 
-## 👋 About Me
-
-I'm a **4th Semester Artificial Intelligence Student** at **IMSciences, Peshawar, Pakistan**, deeply passionate about building a strong foundation in computer science fundamentals while pursuing expertise in **AI/ML, Robotics, and Computer Vision**.
-
-> **Philosophy:** Master the fundamentals deeply, build breadth strategically, and apply knowledge practically to create intelligent systems that make a real difference.
-
-### 🎯 Current Focus Areas:
-- 🧠 **Data Structures & Algorithms** - Building efficient, scalable solutions
-- 🤖 **Machine Learning** - From theory to practical implementation
-- 🎯 **Advanced C++** - System-level programming and optimization
-- ⚙️ **Operating Systems** - Understanding the backbone of computing
-- 🔬 **Robotics & Computer Vision** - Cutting-edge AI applications
-
----
-
-## 📊 Quick Stats
+## 📌 Quick Overview
 
 <div align="center">
 
-| Metric | Value |
-|:---:|:---:|
-| **Repositories** | 22+ |
-| **Code Commits** | 150+ |
-| **Lines of Code** | 2500+ |
-| **GitHub Stars** | 25+ |
-| **Followers** | 21+ |
-| **Following** | 50+ |
-| **Active Projects** | 8+ |
+**🎓 4th Semester AI Student** | **IMSciences, Peshawar** | **Pakistan 🇵🇰**
+
+*"Mastering Fundamentals Today to Build Intelligent Systems Tomorrow"*
 
 </div>
 
-```
-╔════════════════════════════════════════════════════════════╗
-║              📈 LEARNING PROGRESS OVERVIEW                 ║
-╠════════════════════════════════════════════════════════════╣
-║ Data Structures        ████████████████░░ 85%             ║
-║ Algorithms             ████████████████░░ 80%             ║
-║ Operating Systems      ███████████░░░░░░░ 70%             ║
-║ Machine Learning       █████████░░░░░░░░░ 65%             ║
-║ C++ Programming        ████████████░░░░░░ 80%             ║
-║ Python Programming     ███████████░░░░░░░ 75%             ║
-║ Digital Logic          ███████████░░░░░░░ 75%             ║
-║ Overall Progress       ████████░░░░░░░░░░ 70%             ║
-╚════════════════════════════════════════════════════════════╝
-```
-
 ---
 
-## 🚀 Featured Repositories
-
-### 1️⃣ **Data-Structures-Lab-Solutions** ⭐⭐⭐⭐⭐
-
-Complete implementation library with complexity analysis
-
-```
-✅ Linked Lists (Singly, Doubly, Circular)
-✅ Stacks & Queues (Array & LL-based)
-✅ Sorting Algorithms (Bubble, Merge, Quick, Heap, Shell)
-✅ Tree Structures (BST, AVL, B-Trees)
-✅ Graph Algorithms (BFS, DFS, Dijkstra, Kruskal, Prim)
-✅ Search Techniques (Binary Search, Hashing)
-✅ Complexity Analysis for each
-✅ Real-world Use Cases
-```
-
-- **Language:** C++
-- **Status:** ✅ Complete
-- **Complexity:** ⭐⭐⭐⭐⭐
-- **Use:** Educational reference, interview prep
-
----
-
-### 2️⃣ **C++-Lab-Programs** ⭐⭐⭐⭐
-
-Foundational C++ programming practice
-
-```
-📌 Arrays & Pointers - Memory management
-📌 Dynamic Memory - Allocation & deallocation
-📌 Object-Oriented Programming - Classes, Inheritance
-📌 File I/O Operations - Reading, writing, serialization
-📌 Standard Template Library - Containers, Iterators
-📌 Exception Handling - Error management
-📌 Template Programming - Generic code
-📌 Optimization Techniques - Performance improvements
-```
-
-- **Language:** C++
-- **Status:** ✅ Complete
-- **Complexity:** ⭐⭐⭐⭐
-
----
-
-### 3️⃣ **C++-Lab-Projects** 🔧
-
-Advanced projects combining multiple concepts
-
-```
-🎯 Advanced Data Structure Implementations
-🎯 System-level Programs
-🎯 Algorithm Optimization Tools
-🎯 Game Development
-🎯 File Processing Systems
-🎯 Network Programming
-🎯 Graphics Programming
-```
-
-- **Language:** C++
-- **Status:** 🔄 Growing
-- **Complexity:** ⭐⭐⭐⭐⭐
-- **Purpose:** Portfolio development
-
----
-
-### 4️⃣ **Machine-Learning-Journey** 🤖
-
-End-to-end machine learning implementations
-
-```
-🧠 ML Fundamentals - Theory, statistics, probability
-🧠 Data Preprocessing - Cleaning, normalization, features
-🧠 Supervised Learning - Regression, Classification
-🧠 Unsupervised Learning - Clustering, Dimensionality reduction
-🧠 Neural Networks - Architecture design, training
-🧠 Deep Learning - CNN, RNN, Transfer learning
-🧠 Model Optimization - Hyperparameter tuning
-🧠 Real-world Projects - Kaggle, personal projects
-```
-
-- **Language:** Python (Jupyter Notebooks)
-- **Status:** 🔄 Active
-- **Tools:** NumPy, Pandas, Scikit-learn, TensorFlow
-
----
-
-### 5️⃣ **Machine_Learning_Projects_01** 📊
-
-Hands-on ML projects with real datasets
-
-```
-📈 Iris Classification - Multi-class classification
-📈 Housing Price Prediction - Regression analysis
-📈 Titanic Survival - Binary classification with EDA
-📈 Digit Recognition - Neural networks & CNN
-📈 Clustering Analysis - K-means, Hierarchical
-📈 Time Series Forecasting - Stock price prediction
-📈 NLP Basics - Text classification, sentiment
-📈 Computer Vision - Image processing & classification
-```
-
-- **Language:** Python
-- **Status:** ✅ Active
-- **Complexity:** ⭐⭐⭐⭐
-
----
-
-### 6️⃣ **Web-Development-Notebook** 🌐
-
-Modern web development foundation
-
-```
-🎨 HTML Fundamentals - Semantic markup, accessibility
-🎨 CSS Mastery - Flexbox, Grid, Animations
-🎨 Responsive Design - Mobile-first approach
-🎨 Interactive Components - Forms, buttons, navigation
-🎨 Best Practices - Performance, SEO
-🎨 Project Portfolio - Multiple showcase projects
-🎨 Modern Frameworks - Framework introduction
-🎨 Visual Design - Color theory, typography
-```
-
-- **Status:** ✅ Active
-- **Complexity:** ⭐⭐⭐
-
----
-
-### 7️⃣ **Tony-Gaddis-Solutions** 📖
-
-Comprehensive solutions to "Starting Out with Python"
-
-```
-📚 Programming Fundamentals
-📚 Data Structures
-📚 Object-Oriented Programming
-📚 File Operations
-📚 Exception Handling
-📚 Algorithms
-📚 Real-world Applications
-```
-
-- **Language:** Python
-- **Status:** ✅ Complete
-
----
-
-### 8️⃣ **nn-zero-to-hero** 🧠
-
-Neural Networks from Scratch (Andrej Karpathy's Course)
-
-```
-🔬 Mathematical Foundations
-🔬 Neural Network Basics
-🔬 Deep Learning
-🔬 Optimization Algorithms
-🔬 Advanced Topics (Attention, Transformers)
-```
-
-- **Status:** 🔄 In Progress
-- **Complexity:** ⭐⭐⭐⭐⭐
-
----
-
-## 💻 Technical Skills
-
-### Programming Languages
-
-```
-C++              ████████████████░░ 80%  Advanced
-Python           ███████████████░░░ 75%  Intermediate-Advanced
-JavaScript       ████████░░░░░░░░░░ 40%  Beginner-Intermediate
-HTML/CSS         ██████████░░░░░░░░ 60%  Intermediate
-Linux/Bash       ███████████░░░░░░░ 65%  Intermediate
-Git/GitHub       ████████████████░░ 80%  Advanced
-```
-
-### Data Science & ML
-
-```
-NumPy/Pandas     ███████████░░░░░░░ 70%  Intermediate
-Scikit-learn     ██████████░░░░░░░░ 65%  Intermediate
-TensorFlow       ████████░░░░░░░░░░ 55%  Beginner-Intermediate
-Neural Networks  ██████████░░░░░░░░ 60%  Learning
-Deep Learning    █████████░░░░░░░░░ 55%  Learning
-```
-
-### Computer Science Fundamentals
-
-```
-Data Structures  ████████████████░░ 85%  Advanced
-Algorithms       ████████████████░░ 80%  Advanced
-Operating System ███████████░░░░░░░ 70%  Intermediate
-Digital Logic    ███████████░░░░░░░ 75%  Intermediate
-Mathematics      ████████████░░░░░░ 80%  Advanced
-```
-
-### Specialized Skills
-
-```
-Problem Solving  ████████████████░░ 85%  Advanced
-Optimization     ███████████░░░░░░░ 75%  Intermediate-Advanced
-System Design    ████████░░░░░░░░░░ 50%  Beginner-Intermediate
-Documentation   ███████████░░░░░░░ 70%  Intermediate
-```
-
----
-
-## 🎓 Academic Background
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                  ACADEMIC PROFILE                          ║
-╠════════════════════════════════════════════════════════════╣
-║ Institution:     IMSciences, Peshawar                      ║
-║ Program:         B.S. Artificial Intelligence              ║
-║ Current Semester: 4th                                      ║
-║ Expected Grad:   2028                                      ║
-║ Primary Focus:   AI/ML & Robotics                          ║
-║ GPA:             Maintaining Excellence                    ║
-║ Status:          Active & Consistently Improving           ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-### Core Subjects Mastered
-
-| Subject | Status | Grade | Focus |
-|:---|:---:|:---:|:---|
-| Data Structures | ✅ Excellent | A | Advanced implementations |
-| Programming (C++) | ✅ Excellent | A | System-level programming |
-| Mathematics | ✅ Excellent | A | Calculus, Linear Algebra |
-| Operating Systems | 🔄 In Progress | A/B | Process management |
-| Digital Logic | ✅ Strong | A | Boolean algebra, circuits |
-| Discrete Math | ✅ Strong | A | Graphs, combinatorics |
-| Machine Learning | 🔄 Learning | B+ | Active learning phase |
-
----
-
-## 📈 Learning Roadmap
-
-### 🎯 Current Phase (2024-2025): Foundations Mastery
-
-**Status: 70% Complete**
-
-```
-✅ COMPLETED:
-├─ Data Structures Mastery
-├─ C++ Programming Expert
-├─ Algorithm Analysis Pro
-├─ Mathematical Foundation
-└─ Problem-Solving Skills
-
-🔄 IN PROGRESS:
-├─ ML Fundamentals
-├─ Deep Learning Basics
-├─ Operating Systems
-└─ Advanced OOP Concepts
-```
-
-### 🚀 Next Phase (2025-2026): Specialization
-
-```
-PLANNED FOCUS:
-├─ Advanced Neural Networks & Deep Learning
-├─ Computer Vision & Image Processing
-├─ Natural Language Processing
-├─ Robotics Fundamentals
-└─ ML Research & Publishing
-```
-
-### 🌟 Long-term Vision (2027+)
-
-```
-ULTIMATE GOALS:
-├─ AI Research Contributions
-├─ Innovation in Robotics & CV
-├─ Open-source Leadership
-├─ Industry Impact & Patents
-└─ Mentorship & Knowledge Sharing
-```
-
----
-
-## 🔬 Current & Upcoming Projects
-
-```
-═══════════════════════════════════════════════════════════
-
-🔄 IN PROGRESS:
-
-1. Advanced Data Structures Visualizer
-   Status: ████████░░ 45%
-   Focus: Interactive animations, performance graphs
-
-2. Machine Learning Implementation Library
-   Status: ██████░░░░ 35%
-   Focus: ML algorithms from scratch
-
-3. Operating Systems Deep Dive
-   Status: ███████░░░ 55%
-   Focus: Process management, IPC, memory
-
-4. Neural Networks from Scratch
-   Status: ██████░░░░ 40%
-   Focus: Understanding deep learning foundations
-
-5. Computer Vision Project
-   Status: ████░░░░░░ 20%
-   Focus: Image classification & object detection
-
-═══════════════════════════════════════════════════════════
-```
-
----
-
-## 🏆 Achievements & Milestones
-
-```
-╔════════════════════════════════════════════════════════════╗
-║              ACHIEVEMENT DASHBOARD                         ║
-╠════════════════════════════════════════════════════════════╣
-║ Repositories Created:        22+                           ║
-║ Code Commits:                150+                          ║
-║ Lines of Code Written:       2500+                         ║
-║ Documentation Pages:         500+ KB                       ║
-║ GitHub Stars:                25+                           ║
-║ Problems Solved:             200+                          ║
-║ Projects Completed:          15+                           ║
-║ Knowledge Articles:          50+                           ║
-║ Students Helped:             100+                          ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-### 🌟 Notable Accomplishments
-
-```
-✨ Data Structures Expert
-   └─ Comprehensive library with 15+ implementations
-
-✨ Algorithm Optimization
-   └─ Achieved 30% average performance improvement
-
-✨ Full-Stack Learning
-   └─ C++ systems to Python ML pipeline
-
-✨ Educational Contribution
-   └─ Helped 100+ students with resources
-
-✨ Consistent Coding
-   └─ 150+ commits with quality documentation
-
-✨ Multi-domain Knowledge
-   └─ DSA, AI/ML, Web Dev, OS foundations
-```
+## 📊 Technical Skills Dashboard
+
+![Skills Dashboard](1-skills-dashboard.svg)
+
+### Skill Summary:
+- **Advanced:** C++ (80%), Data Structures (85%), Algorithms (80%)
+- **Intermediate-Advanced:** Python (75%), Mathematics (80%)
+- **Intermediate:** NumPy/Pandas (70%), Linux (65%), Git (80%)
+- **Learning:** TensorFlow (55%), Deep Learning (55%), NLP (45%)
 
 ---
 
 ## 🧠 Knowledge Architecture
 
-```
-FOUNDATION LAYER (85% Complete)
-├─ Data Structures (85%)
-├─ Algorithms (80%)
-├─ Operating Systems (70%)
-├─ Digital Logic (75%)
-└─ Discrete Math (70%)
-
-MATHEMATICS LAYER (78% Complete)
-├─ Multivariable Calculus (80%)
-├─ Linear Algebra (75%)
-├─ Probability & Statistics (70%)
-└─ Discrete Mathematics (70%)
-
-AI/ML LAYER (60% Complete)
-├─ ML Fundamentals (65%)
-├─ Neural Networks (60%)
-├─ Deep Learning (55%)
-├─ Computer Vision (50%)
-└─ NLP Basics (45%)
-
-APPLICATION LAYER (62% Complete)
-├─ Data Processing (75%)
-├─ Model Building (65%)
-├─ System Design (50%)
-├─ Web Development (60%)
-└─ Production Deployment (45%)
+```mermaid
+graph TB
+    A["🎯 AI ENGINEERING VISION"]
+    
+    A --> B["CS FUNDAMENTALS"]
+    A --> C["MATHEMATICS"]
+    A --> D["AI/ML THEORY"]
+    
+    B --> B1["Data Structures<br/>85%"]
+    B --> B2["Algorithms<br/>80%"]
+    B --> B3["Operating Systems<br/>70%"]
+    B --> B4["Digital Logic<br/>75%"]
+    
+    C --> C1["Calculus<br/>80%"]
+    C --> C2["Linear Algebra<br/>75%"]
+    C --> C3["Discrete Math<br/>70%"]
+    
+    D --> D1["ML Algorithms<br/>65%"]
+    D --> D2["Neural Networks<br/>60%"]
+    D --> D3["Deep Learning<br/>55%"]
+    
+    B1 & B2 & B3 & B4 & C1 & C2 & C3 & D1 & D2 & D3 --> E["🚀 INTELLIGENT SYSTEMS"]
+    E --> F["🏆 AI INNOVATION LEADER"]
+    
+    style A fill:#ff6b6b,stroke:#333,color:#fff
+    style E fill:#4ecdc4,stroke:#333,color:#fff
+    style F fill:#ffd700,stroke:#333,color:#000
+    style B fill:#45b7d1,stroke:#333,color:#fff
+    style C fill:#96ceb4,stroke:#333,color:#fff
+    style D fill:#ff9ff3,stroke:#333,color:#fff
 ```
 
 ---
 
-## 🌐 Technical Ecosystem
+## 📈 Learning Progress Roadmap
 
-### Development Environment
+![Learning Progress](2-learning-progress.svg)
 
+### Timeline Breakdown:
+
+```mermaid
+gantt
+    title AI Engineering Learning Roadmap
+    dateFormat YYYY-MM-DD
+    
+    section Phase 1
+    Foundations (70% Done) :done, phase1, 2024-01-01, 2025-12-31
+    
+    section Phase 2
+    Specialization (Planning) :crit, phase2, 2025-06-01, 2026-12-31
+    
+    section Phase 3
+    Research & Innovation :phase3, 2026-06-01, 2027-12-31
+    
+    section Phase 4
+    Industry Leadership :phase4, 2027-01-01, 2028-12-31
 ```
-IDE & Editors:     VS Code, CLion, PyCharm
-Version Control:   Git, GitHub
-Languages:         C++, Python, JavaScript, HTML/CSS
-Frameworks:        NumPy, Pandas, Scikit-learn, TensorFlow
-Tools:             Linux, Docker, Jupyter Notebooks, Bash
-Visualization:     Matplotlib, Seaborn, Plotly
-```
-
-### Learning Resources
-
-| Resource | Status | Frequency |
-|:---|:---:|:---:|
-| LeetCode | ✅ Active | Daily |
-| Kaggle | ✅ Active | Weekly |
-| freeCodeCamp | 🔄 In Progress | Regular |
-| Stanford CS | 📚 Reference | As needed |
-| MIT OCW | 📚 Supplement | As needed |
 
 ---
 
-## 🤝 Collaboration & Community
+## 📊 Repository Statistics
 
-### Open Source
-- 🔗 Contributing to educational repositories
-- 🔗 Forking and improving existing projects
-- 🔗 Sharing knowledge through documentation
+![Repository Stats](3-repo-statistics.svg)
 
-### Community
-- 💬 Helping junior students with DSA
-- 💬 Active on coding forums
-- 💬 Contributing to discussions
-- 💬 Mentoring on GitHub discussions
-
-### Academic
-- 👥 Joint projects with peers
-- 👥 Lab assignments collaboration
-- 👥 Study group participation
-- 👥 Knowledge sharing sessions
+### GitHub Metrics:
+- **22+ Repositories** - Across multiple domains
+- **150+ Commits** - Regular contributions
+- **2500+ Lines of Code** - Clean, documented code
+- **25+ Stars** - Community appreciation
+- **21+ Followers** - Growing community
+- **200+ Problems Solved** - Continuous practice
+- **100+ Students Helped** - Knowledge sharing
 
 ---
 
-## 🎯 My Vision & Values
+## 🚀 Project Breakdown
 
+![Project Breakdown](4-project-breakdown.svg)
+
+### Featured Projects:
+
+#### 1️⃣ **Data-Structures-Lab-Solutions** ⭐⭐⭐⭐⭐
+```mermaid
+graph LR
+    A["Data Structures"] --> B["15+ Implementations"]
+    B --> C1["Linked Lists"]
+    B --> C2["Trees & Graphs"]
+    B --> C3["Sorting & Searching"]
+    B --> C4["Complexity Analysis"]
+    
+    C1 & C2 & C3 & C4 --> D["✅ Production Ready"]
+    
+    style A fill:#00d9ff,color:#000
+    style D fill:#ffbe0b,color:#000
 ```
-╔════════════════════════════════════════════════════════════╗
-║               CORE PHILOSOPHY                              ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  "Master the fundamentals deeply, build breadth          ║
-║   strategically, and apply knowledge practically to       ║
-║   create intelligent systems that make a difference       ║
-║   in the world."                                           ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+
+**Status:** ✅ Complete | **Language:** C++ | **Complexity:** ⭐⭐⭐⭐⭐
+
+#### 2️⃣ **Machine-Learning-Journey** 🤖
+```mermaid
+graph LR
+    A["ML Journey"] --> B["8+ Algorithms"]
+    B --> C1["Supervised Learning"]
+    B --> C2["Unsupervised Learning"]
+    B --> C3["Neural Networks"]
+    B --> C4["Deep Learning"]
+    
+    C1 & C2 & C3 & C4 --> D["🔄 65% Complete"]
+    
+    style A fill:#ffbe0b,color:#000
+    style D fill:#ff006e,color:#fff
 ```
+
+**Status:** 🔄 In Progress | **Language:** Python | **Tools:** NumPy, Pandas, TensorFlow
+
+#### 3️⃣ **C++-Lab-Projects** 🔧
+```mermaid
+graph LR
+    A["C++ Projects"] --> B["Advanced Systems"]
+    B --> C1["Algorithm Optimization"]
+    B --> C2["System Programs"]
+    B --> C3["Game Development"]
+    B --> C4["Network Programming"]
+    
+    C1 & C2 & C3 & C4 --> D["🔄 Growing (45%)"]
+    
+    style A fill:#ff006e,color:#fff
+    style D fill:#4ecdc4,color:#000
+```
+
+**Status:** 🔄 Active | **Language:** C++ | **Complexity:** ⭐⭐⭐⭐⭐
+
+#### 4️⃣ **Web-Development-Notebook** 🌐
+**Contents:** HTML Fundamentals | CSS Mastery | Responsive Design | Interactive Components
+
+#### 5️⃣ **Tony-Gaddis-Solutions** 📖
+**Contents:** 50+ Python Solutions | OOP Concepts | File Operations | Algorithms
+
+#### 6️⃣ **nn-zero-to-hero** 🧠
+**Status:** 🔄 In Progress (40%) | **Focus:** Neural Networks from Scratch | **Instructor:** Andrej Karpathy
+
+---
+
+## 🏆 Key Achievements
+
+![Achievements](5-achievements.svg)
+
+### Achievement Metrics:
+
+```mermaid
+pie title Achievement Distribution
+    "Data Structures" : 25
+    "Algorithm Optimization" : 20
+    "Educational Contribution" : 20
+    "Full-Stack Learning" : 20
+    "Code Quality" : 15
+```
+
+---
+
+## 🎯 Learning Path & Milestones
+
+```mermaid
+graph TD
+    A["START: Fundamentals"] --> B["CS Mastery"]
+    B --> C["Math Foundation"]
+    C --> D["ML Algorithms"]
+    D --> E["Neural Networks"]
+    E --> F["Deep Learning"]
+    F --> G["Computer Vision"]
+    G --> H["Robotics"]
+    H --> I["Research"]
+    I --> J["Innovation Leader"]
+    
+    style A fill:#ff6b6b
+    style J fill:#ffd700
+    style B fill:#45b7d1
+    style D fill:#ff9ff3
+    style G fill:#4ecdc4
+```
+
+---
+
+## 💻 Tech Stack & Tools
+
+```mermaid
+graph TB
+    subgraph Languages
+        L1["C++"]
+        L2["Python"]
+        L3["JavaScript"]
+        L4["HTML/CSS"]
+    end
+    
+    subgraph Data Science
+        D1["NumPy"]
+        D2["Pandas"]
+        D3["Scikit-learn"]
+    end
+    
+    subgraph ML/AI
+        M1["TensorFlow"]
+        M2["Neural Networks"]
+        M3["Deep Learning"]
+    end
+    
+    subgraph Tools & Platforms
+        T1["Git/GitHub"]
+        T2["Linux/Bash"]
+        T3["Docker"]
+        T4["Jupyter"]
+    end
+    
+    Languages --> Data Science
+    Data Science --> ML/AI
+    Languages --> Tools & Platforms
+    
+    style L1 fill:#00d9ff,color:#000
+    style D1 fill:#ffbe0b,color:#000
+    style M1 fill:#ff006e,color:#fff
+```
+
+---
+
+## 📈 Current Status & Progress
+
+### Overall Learning Progress: **70% Complete**
+
+```mermaid
+gauge title Overall Progress
+    min 0
+    max 100
+    title Learning Progress
+    0 : red
+    33 : yellow
+    66 : lime
+    100 : green
+    70 : 70
+```
+
+### Module Breakdown:
+
+| Module | Progress | Status | Complexity |
+|:---|:---:|:---|:---:|
+| Data Structures | 85% | ✅ Excellent | ⭐⭐⭐⭐⭐ |
+| Algorithms | 80% | ✅ Excellent | ⭐⭐⭐⭐ |
+| Mathematics | 80% | ✅ Excellent | ⭐⭐⭐⭐ |
+| Operating Systems | 70% | 🔄 In Progress | ⭐⭐⭐⭐ |
+| Digital Logic | 75% | ✅ Strong | ⭐⭐⭐⭐ |
+| Machine Learning | 65% | 🔄 Active Learning | ⭐⭐⭐⭐ |
+| Deep Learning | 55% | 🔄 Learning | ⭐⭐⭐⭐⭐ |
+| **Overall** | **70%** | **🔄 Active** | **⭐⭐⭐⭐** |
+
+---
+
+## 🔄 Current & Upcoming Projects
+
+```mermaid
+timeline
+    title Active Development Timeline
+    
+    2024-2025: Foundations Mastery
+             : Data Structures Expert ✅
+             : C++ Systems Programming ✅
+             : Algorithm Analysis 🔄
+             : Operating Systems 🔄
+    
+    2025-2026: Specialization Phase
+             : Deep Learning 📋
+             : Computer Vision 📋
+             : NLP Basics 📋
+             : Robotics Fund. 📋
+    
+    2026-2027: Research & Innovation
+             : ML Research 🔬
+             : Vision Projects 🔬
+             : Publications 🔬
+             : Open Source Leadership 🔬
+    
+    2027+: Industry Impact
+         : AI Innovation Leader 🎯
+         : Global Contributions 🎯
+         : Mentorship 🎯
+```
+
+---
+
+## 👥 Collaboration & Community
+
+```mermaid
+graph LR
+    A["Muhammad Zafran"] 
+    
+    A --> B["Open Source"]
+    A --> C["Education"]
+    A --> D["Research"]
+    A --> E["Mentorship"]
+    
+    B --> B1["GitHub Contributions"]
+    B --> B2["Project Improvements"]
+    
+    C --> C1["Student Mentoring"]
+    C --> C2["Knowledge Sharing"]
+    
+    D --> D1["ML Research"]
+    D --> D2["Publications"]
+    
+    E --> E1["Junior Guidance"]
+    E --> E2["Peer Learning"]
+    
+    style A fill:#ffbe0b,color:#000
+    style B fill:#00d9ff
+    style C fill:#4ecdc4
+    style D fill:#ff9ff3
+    style E fill:#ff006e
+```
+
+---
+
+## 🌟 Vision & Philosophy
+
+<div align="center">
+
+### Core Philosophy
+
+> **"Master the fundamentals deeply, build breadth strategically, and apply knowledge practically to create intelligent systems that make a difference in the world."**
 
 ### Core Values
 
-| Value | Application |
-|:---|:---|
-| **Excellence** | High-quality, documented code |
-| **Consistency** | Regular practice & contribution |
-| **Curiosity** | Exploring new tech & methods |
-| **Collaboration** | Knowledge sharing & helping |
-| **Innovation** | Creative problem-solving |
-| **Integrity** | Honest work & proper attribution |
+| Value | Application | Evidence |
+|:---|:---|:---|
+| **Excellence** | High-quality, documented code | Well-structured repos |
+| **Consistency** | Regular practice & contribution | 150+ commits |
+| **Curiosity** | Exploring new tech & methods | Diverse projects |
+| **Collaboration** | Knowledge sharing & helping | Student mentoring |
+| **Innovation** | Creative problem-solving | Optimized algorithms |
+| **Integrity** | Honest work & attribution | Proper credits |
 
----
-
-## 📈 My AI Engineering Journey
-
-```
-NOW (2024-2025)
-└─ Building Strong Foundations
-   ├─ CS fundamentals mastery
-   ├─ Mathematics expertise
-   └─ Programming proficiency
-
-NEAR TERM (2025-2026)
-└─ Specialization Phase
-   ├─ Advanced AI/ML
-   ├─ Deep Learning expertise
-   └─ Research focus
-
-MEDIUM TERM (2026-2027)
-└─ Research & Innovation
-   ├─ ML research projects
-   ├─ Publications
-   └─ Open source leadership
-
-LONG TERM (2027+)
-└─ Industry Impact
-   ├─ AI innovation leader
-   ├─ Mentorship & guidance
-   └─ Global contributions
-
-════════════════════════════════════════════════════════════
-ULTIMATE GOAL: Leading AI Engineer Making Global Impact
-════════════════════════════════════════════════════════════
-```
-
----
-
-## 📊 GitHub Statistics
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                   GITHUB ANALYTICS                         ║
-╠════════════════════════════════════════════════════════════╣
-║ Public Repositories:        22+                            ║
-║ Total Commits:              150+                           ║
-║ Code Contributions:         2500+ lines                    ║
-║ Documentation:              500+ KB                        ║
-║ Followers:                  21+                            ║
-║ Following:                  50+                            ║
-║ Stars Received:             25+                            ║
-║ Last Active:                This Week ⚡                   ║
-║ Most Used Language:         C++ / Python                   ║
-║ Repositories Updated:       Regularly 🔄                  ║
-╚════════════════════════════════════════════════════════════╝
-```
+</div>
 
 ---
 
@@ -605,30 +389,48 @@ ULTIMATE GOAL: Leading AI Engineer Making Global Impact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Zafran-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-zafran-93344a352)
 [![GitHub](https://img.shields.io/badge/GitHub-MuhammadZafran33-black?style=for-the-badge&logo=github)](https://github.com/MuhammadZafran33)
 
+### 🎯 Open To:
+- 🤝 Collaboration on AI/ML projects
+- 💼 Internship opportunities in AI/Robotics
+- 🔬 Research contribution
+- 👨‍🏫 Mentorship (both ways!)
+- 🌐 Open source contribution
+
 ### 📍 Location
-
 **Peshawar, Khyber Pakhtunkhwa, Pakistan 🇵🇰**
-
-### 🎯 Open To
-
-- 🤝 **Collaboration** - Joint projects & learning
-- 💼 **Internships** - AI/ML & Robotics roles
-- 🔬 **Research** - Contributing to cutting-edge work
-- 👨‍🏫 **Mentorship** - Both ways! Let's grow together
-- 🌐 **Open Source** - Contributing to impactful projects
 
 </div>
 
 ---
 
-## ⭐ Support My Work
+## 📊 GitHub Statistics
+
+```
+╔═══════════════════════════════════════════════════════╗
+║              GITHUB ANALYTICS                         ║
+╠═══════════════════════════════════════════════════════╣
+║ Public Repositories:      22+                         ║
+║ Total Commits:            150+                        ║
+║ Code Contributions:       2500+ lines                 ║
+║ Documentation:            500+ KB                     ║
+║ Followers:                21+                         ║
+║ Following:                50+                         ║
+║ Stars Received:           25+                         ║
+║ Last Active:              This Week ⚡               ║
+║ Most Used Language:       C++ / Python                ║
+║ Repositories Updated:     Regularly 🔄               ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🌟 Support My Work
 
 If you find my repositories helpful:
-
 - ⭐ **Star** my repositories
-- 🔄 **Fork** and contribute improvements
+- 🔄 **Fork** and contribute
 - 📢 **Share** with others
-- 💬 **Discuss** ideas and improvements
+- 💬 **Discuss** ideas
 - 🤝 **Collaborate** on projects
 
 ---
@@ -636,24 +438,18 @@ If you find my repositories helpful:
 <div align="center">
 
 ```
-╔═════════════════════════════════════════════════════════════╗
-║      Thank You for Visiting My GitHub Profile!             ║
-║                                                             ║
-║  "Mastering fundamentals today to build intelligent        ║
-║   systems tomorrow"                                         ║
-║                                                             ║
-║  Let's connect and collaborate on amazing projects that    ║
-║  push the boundaries of AI and computer science!           ║
-╚═════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════╗
+║      Thank You for Visiting My GitHub Profile!         ║
+║                                                         ║
+║  "Mastering fundamentals today to build intelligent    ║
+║   systems tomorrow"                                     ║
+║                                                         ║
+║  Let's collaborate on amazing projects that push the   ║
+║  boundaries of AI and computer science!                ║
+╚═════════════════════════════════════════════════════════╝
 ```
 
----
-
-**Last Updated:** February 2026  
-**Status:** Active & Growing 📈  
-**Passion Level:** 🔥🔥🔥🔥🔥
-
----
+**Last Updated:** February 2026 | **Status:** Active & Growing 📈 | **Passion:** 🔥🔥🔥🔥🔥
 
 **Made with ❤️ by Muhammad Zafran | Peshawar, Pakistan 🇵🇰**
 
