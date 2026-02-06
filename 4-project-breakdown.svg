@@ -1,0 +1,90 @@
+<svg width="100%" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes slideIn {
+        0% { opacity: 0; transform: translateX(-30px); }
+        100% { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes pulse {
+        0%, 100% { filter: drop-shadow(0 0 10px rgba(0, 217, 255, 0.3)); }
+        50% { filter: drop-shadow(0 0 25px rgba(0, 217, 255, 0.8)); }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="700" fill="#0a0e27"/>
+
+  <!-- Title -->
+  <text x="600" y="60" font-size="42" font-weight="900" text-anchor="middle" fill="#00d9ff" style="animation: pulse 3s infinite;">
+    🚀 PROJECT BREAKDOWN
+  </text>
+
+  <!-- Project 1: Data Structures -->
+  <g style="animation: slideIn 0.8s ease-out;">
+    <rect x="50" y="120" width="350" height="150" rx="15" fill="rgba(0, 217, 255, 0.15)" stroke="#00d9ff" stroke-width="2"/>
+    <text x="225" y="155" font-size="20" font-weight="bold" text-anchor="middle" fill="#00d9ff">📚 Data Structures</text>
+    <text x="70" y="190" font-size="13" fill="#b0c4de">✅ 15+ Implementations</text>
+    <text x="70" y="210" font-size="13" fill="#b0c4de">✅ Complexity Analysis</text>
+    <text x="70" y="230" font-size="13" fill="#b0c4de">⭐⭐⭐⭐⭐ Mastered</text>
+    <text x="70" y="250" font-size="12" fill="#ffbe0b">Language: C++</text>
+  </g>
+
+  <!-- Project 2: ML Journey -->
+  <g style="animation: slideIn 0.8s ease-out 0.1s both;">
+    <rect x="425" y="120" width="350" height="150" rx="15" fill="rgba(255, 190, 11, 0.15)" stroke="#ffbe0b" stroke-width="2"/>
+    <text x="600" y="155" font-size="20" font-weight="bold" text-anchor="middle" fill="#ffbe0b">🤖 ML Journey</text>
+    <text x="445" y="190" font-size="13" fill="#b0c4de">✅ 8+ Algorithms</text>
+    <text x="445" y="210" font-size="13" fill="#b0c4de">✅ Neural Networks</text>
+    <text x="445" y="230" font-size="13" fill="#b0c4de">🔄 In Progress (65%)</text>
+    <text x="445" y="250" font-size="12" fill="#00d9ff">Language: Python</text>
+  </g>
+
+  <!-- Project 3: C++ Projects -->
+  <g style="animation: slideIn 0.8s ease-out 0.2s both;">
+    <rect x="800" y="120" width="350" height="150" rx="15" fill="rgba(255, 0, 110, 0.15)" stroke="#ff006e" stroke-width="2"/>
+    <text x="975" y="155" font-size="20" font-weight="bold" text-anchor="middle" fill="#ff006e">🔧 C++ Projects</text>
+    <text x="820" y="190" font-size="13" fill="#b0c4de">🎯 Advanced DSA</text>
+    <text x="820" y="210" font-size="13" fill="#b0c4de">🎯 System Programs</text>
+    <text x="820" y="230" font-size="13" fill="#b0c4de">🔄 Growing (45%)</text>
+    <text x="820" y="250" font-size="12" fill="#ffbe0b">Complexity: ⭐⭐⭐⭐⭐</text>
+  </g>
+
+  <!-- Project 4: Web Development -->
+  <g style="animation: slideIn 0.8s ease-out 0.3s both;">
+    <rect x="50" y="310" width="350" height="150" rx="15" fill="rgba(78, 205, 196, 0.15)" stroke="#4ecdc4" stroke-width="2"/>
+    <text x="225" y="345" font-size="20" font-weight="bold" text-anchor="middle" fill="#4ecdc4">🌐 Web Dev</text>
+    <text x="70" y="380" font-size="13" fill="#b0c4de">✅ HTML Fundamentals</text>
+    <text x="70" y="400" font-size="13" fill="#b0c4de">✅ CSS Mastery</text>
+    <text x="70" y="420" font-size="13" fill="#b0c4de">✅ Responsive Design</text>
+    <text x="70" y="440" font-size="12" fill="#00d9ff">Status: Active</text>
+  </g>
+
+  <!-- Project 5: Tony Gaddis -->
+  <g style="animation: slideIn 0.8s ease-out 0.4s both;">
+    <rect x="425" y="310" width="350" height="150" rx="15" fill="rgba(255, 107, 107, 0.15)" stroke="#ff6b6b" stroke-width="2"/>
+    <text x="600" y="345" font-size="20" font-weight="bold" text-anchor="middle" fill="#ff6b6b">📖 Tony Gaddis</text>
+    <text x="445" y="380" font-size="13" fill="#b0c4de">✅ 50+ Solutions</text>
+    <text x="445" y="400" font-size="13" fill="#b0c4de">✅ OOP Concepts</text>
+    <text x="445" y="420" font-size="13" fill="#b0c4de">✅ File Operations</text>
+    <text x="445" y="440" font-size="12" fill="#ffbe0b">Language: Python</text>
+  </g>
+
+  <!-- Project 6: NN Zero to Hero -->
+  <g style="animation: slideIn 0.8s ease-out 0.5s both;">
+    <rect x="800" y="310" width="350" height="150" rx="15" fill="rgba(168, 85, 247, 0.15)" stroke="#a855f7" stroke-width="2"/>
+    <text x="975" y="345" font-size="20" font-weight="bold" text-anchor="middle" fill="#a855f7">🧠 NN Zero to Hero</text>
+    <text x="820" y="380" font-size="13" fill="#b0c4de">🔬 Math Foundations</text>
+    <text x="820" y="400" font-size="13" fill="#b0c4de">🔬 Neural Networks</text>
+    <text x="820" y="420" font-size="13" fill="#b0c4de">🔄 In Progress (40%)</text>
+    <text x="820" y="440" font-size="12" fill="#00d9ff">Complexity: ⭐⭐⭐⭐⭐</text>
+  </g>
+
+  <!-- Stats Box -->
+  <rect x="50" y="510" width="1100" height="160" rx="15" fill="rgba(0, 217, 255, 0.1)" stroke="#00d9ff" stroke-width="2"/>
+  
+  <text x="600" y="545" font-size="24" font-weight="bold" text-anchor="middle" fill="#ffbe0b">PROJECT SUMMARY</text>
+  
+  <text x="70" y="590" font-size="14" fill="#b0c4de">📊 Total Repositories: 22+  |  Total Commits: 150+  |  Code Lines: 2500+  |  Stars: 25+</text>
+  <text x="70" y="615" font-size="14" fill="#b0c4de">🎯 Completed Projects: 3  |  In Progress: 3  |  Active: 6+  |  Complexity Average: ⭐⭐⭐⭐</text>
+  <text x="70" y="640" font-size="14" fill="#b0c4de">📈 Learning Coverage: Foundations 85% | ML 65% | Web Dev 60% | Advanced Systems 45%</text>
+</svg>
