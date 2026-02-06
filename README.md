@@ -1,8 +1,9 @@
 ![Ultimate header](ULTIMATE-HEADER.svg)
+
 <div align="center">
 
 # 🤖 **MUHAMMAD ZAFRAN** 🤖
-### AI/ML Engineer | Data Structures Expert | Future Innovator
+
 
 [![GitHub followers](https://img.shields.io/github/followers/MuhammadZafran33?style=social&label=Follow)](https://github.com/MuhammadZafran33)
 [![GitHub Stars](https://img.shields.io/github/stars/MuhammadZafran33?style=social)](https://github.com/MuhammadZafran33)
