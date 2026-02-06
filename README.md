@@ -24,7 +24,7 @@
 
 ## 📊 Technical Skills Dashboard
 
-![Skills Dashboard](1-skills-dashboard.svg)
+![Skills Dashboard](SKILLS-DASHBOARD.svg)
 
 ### Skill Summary:
 - **Advanced:** C++ (80%), Data Structures (85%), Algorithms (80%)
