@@ -1,0 +1,86 @@
+<svg width="100%" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes barGrow {
+        0% { height: 0; }
+        100% { height: var(--height, 200px); }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+      }
+    </style>
+    <linearGradient id="barGradient1" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d9ff" />
+      <stop offset="100%" style="stop-color:#0088ff" />
+    </linearGradient>
+    <linearGradient id="barGradient2" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffbe0b" />
+      <stop offset="100%" style="stop-color:#ff8800" />
+    </linearGradient>
+    <linearGradient id="barGradient3" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff006e" />
+      <stop offset="100%" style="stop-color:#cc0055" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="600" fill="#0a0e27"/>
+
+  <!-- Title -->
+  <text x="600" y="60" font-size="42" font-weight="900" text-anchor="middle" fill="#00d9ff">
+    📊 REPOSITORY STATISTICS
+  </text>
+
+  <!-- Bar Chart -->
+  <!-- Repositories -->
+  <rect x="150" y="450" width="80" height="0" rx="10" fill="url(#barGradient1)" style="animation: barGrow 1.5s ease-out forwards; --height: 200px;"/>
+  <text x="190" y="490" font-size="28" font-weight="bold" text-anchor="middle" fill="#00d9ff">22+</text>
+  <text x="190" y="520" font-size="14" text-anchor="middle" fill="#b0c4de">Repositories</text>
+
+  <!-- Commits -->
+  <rect x="320" y="380" width="80" height="0" rx="10" fill="url(#barGradient2)" style="animation: barGrow 1.5s ease-out forwards 0.2s both; --height: 270px;"/>
+  <text x="360" y="420" font-size="28" font-weight="bold" text-anchor="middle" fill="#ffbe0b">150+</text>
+  <text x="360" y="520" font-size="14" text-anchor="middle" fill="#b0c4de">Commits</text>
+
+  <!-- Code Lines -->
+  <rect x="490" y="400" width="80" height="0" rx="10" fill="url(#barGradient3)" style="animation: barGrow 1.5s ease-out forwards 0.4s both; --height: 250px;"/>
+  <text x="530" y="440" font-size="28" font-weight="bold" text-anchor="middle" fill="#ff006e">2500+</text>
+  <text x="530" y="520" font-size="14" text-anchor="middle" fill="#b0c4de">Code Lines</text>
+
+  <!-- Stars -->
+  <rect x="660" y="470" width="80" height="0" rx="10" fill="url(#barGradient1)" style="animation: barGrow 1.5s ease-out forwards 0.6s both; --height: 180px;"/>
+  <text x="700" y="510" font-size="28" font-weight="bold" text-anchor="middle" fill="#00d9ff">25+</text>
+  <text x="700" y="520" font-size="14" text-anchor="middle" fill="#b0c4de">Stars</text>
+
+  <!-- Followers -->
+  <rect x="830" y="480" width="80" height="0" rx="10" fill="url(#barGradient2)" style="animation: barGrow 1.5s ease-out forwards 0.8s both; --height: 170px;"/>
+  <text x="870" y="520" font-size="28" font-weight="bold" text-anchor="middle" fill="#ffbe0b">21+</text>
+  <text x="870" y="540" font-size="14" text-anchor="middle" fill="#b0c4de">Followers</text>
+
+  <!-- Projects -->
+  <rect x="1000" y="460" width="80" height="0" rx="10" fill="url(#barGradient3)" style="animation: barGrow 1.5s ease-out forwards 1s both; --height: 190px;"/>
+  <text x="1040" y="500" font-size="28" font-weight="bold" text-anchor="middle" fill="#ff006e">8+</text>
+  <text x="1040" y="520" font-size="14" text-anchor="middle" fill="#b0c4de">Projects</text>
+
+  <!-- Stats Cards -->
+  <g style="animation: float 3s ease-in-out infinite;">
+    <rect x="100" y="150" width="280" height="120" rx="10" fill="rgba(0, 217, 255, 0.1)" stroke="#00d9ff" stroke-width="2"/>
+    <text x="240" y="180" font-size="18" font-weight="bold" text-anchor="middle" fill="#00d9ff">Documentation</text>
+    <text x="240" y="210" font-size="28" font-weight="bold" text-anchor="middle" fill="#ffbe0b">500+ KB</text>
+    <text x="240" y="240" font-size="12" text-anchor="middle" fill="#b0c4de">Comprehensive docs</text>
+  </g>
+
+  <g style="animation: float 3s ease-in-out infinite; animation-delay: 0.5s;">
+    <rect x="460" y="150" width="280" height="120" rx="10" fill="rgba(255, 190, 11, 0.1)" stroke="#ffbe0b" stroke-width="2"/>
+    <text x="600" y="180" font-size="18" font-weight="bold" text-anchor="middle" fill="#ffbe0b">Problems Solved</text>
+    <text x="600" y="210" font-size="28" font-weight="bold" text-anchor="middle" fill="#00d9ff">200+</text>
+    <text x="600" y="240" font-size="12" text-anchor="middle" fill="#b0c4de">Coding challenges</text>
+  </g>
+
+  <g style="animation: float 3s ease-in-out infinite; animation-delay: 1s;">
+    <rect x="820" y="150" width="280" height="120" rx="10" fill="rgba(255, 0, 110, 0.1)" stroke="#ff006e" stroke-width="2"/>
+    <text x="960" y="180" font-size="18" font-weight="bold" text-anchor="middle" fill="#ff006e">Students Helped</text>
+    <text x="960" y="210" font-size="28" font-weight="bold" text-anchor="middle" fill="#ffbe0b">100+</text>
+    <text x="960" y="240" font-size="12" text-anchor="middle" fill="#b0c4de">Knowledge shared</text>
+  </g>
+</svg>
