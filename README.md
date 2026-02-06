@@ -1,4 +1,4 @@
-![Skills Dashboard](SKILLS-DASHBOARD.svg)
+![Ultimate header](ULTIMATE-HEADER.svg)
 <div align="center">
 
 # 🤖 **MUHAMMAD ZAFRAN** 🤖
