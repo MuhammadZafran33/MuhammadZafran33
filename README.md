@@ -222,41 +222,28 @@ graph TD
 
 ## 💻 Tech Stack & Tools
 
-graph TB
-    A["🛠️ MY TECH ECOSYSTEM"] 
-    
-    A --> B["PROGRAMMING LANGUAGES"]
-    A --> C["DATA SCIENCE & ML"]
-    A --> D["DEVELOPMENT TOOLS"]
-    
-    B --> B1["C++ - Advanced"]
-    B --> B2["Python - Intermediate"]
-    B --> B3["JavaScript - Learning"]
-    B --> B4["HTML/CSS - Intermediate"]
-    
-    C --> C1["NumPy - Data Processing"]
-    C --> C2["Pandas - Analysis"]
-    C --> C3["Scikit-learn - ML"]
-    C --> C4["TensorFlow - Deep Learning"]
-    
-    D --> D1["Git/GitHub"]
-    D --> D2["Linux/Bash"]
-    D --> D3["Docker"]
-    D --> D4["Jupyter Notebooks"]
-    
-    B1 --> E["📊 INTELLIGENT SYSTEMS"]
-    C4 --> E
-    D1 --> E
-    
-    E --> F["🚀 AI INNOVATION"]
-    
-    style A fill:#ffbe0b,stroke:#000,stroke-width:3px,color:#000
-    style E fill:#4ecdc4,stroke:#000,stroke-width:3px,color:#fff
-    style F fill:#ff006e,stroke:#000,stroke-width:3px,color:#fff
-    style B fill:#00d9ff,stroke:#000,color:#000
-    style C fill:#96ceb4,stroke:#000,color:#000
-    style D fill:#ff9ff3,stroke:#000,color:#000
 
+```mermaid
+graph LR
+    A["📚 STARTFundamentals"] --> B["🧠 DATA STRUCTURES85%"]
+    B --> C["⚙️ ALGORITHMS80%"]
+    C --> D["📐 MATHEMATICS80%"]
+    D --> E["🤖 ML BASICS65%"]
+    E --> F["🧠 NEURAL NETS60%"]
+    F --> G["🚀 DEEP LEARNING55%"]
+    G --> H["👁️ COMPUTER VISION50%"]
+    H --> I["🏆 AI EXPERTMastery"]
+    
+    style A fill:#ff6b6b,color:#fff,stroke:#000,stroke-width:2px
+    style B fill:#45b7d1,color:#fff,stroke:#000,stroke-width:2px
+    style C fill:#45b7d1,color:#fff,stroke:#000,stroke-width:2px
+    style D fill:#96ceb4,color:#fff,stroke:#000,stroke-width:2px
+    style E fill:#ff9ff3,color:#fff,stroke:#000,stroke-width:2px
+    style F fill:#ff9ff3,color:#fff,stroke:#000,stroke-width:2px
+    style G fill:#ff9ff3,color:#fff,stroke:#000,stroke-width:2px
+    style H fill:#ff9ff3,color:#fff,stroke:#000,stroke-width:2px
+    style I fill:#ffd700,color:#000,stroke:#000,stroke-width:3px
+```
 ---
 
 ## 📈 Current Status & Progress
