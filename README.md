@@ -251,15 +251,23 @@ graph LR
 ### Overall Learning Progress: **70% Complete**
 
 ```mermaid
-gauge title Overall Progress
-    min 0
-    max 100
-    title Learning Progress
-    0 : red
-    33 : yellow
-    66 : lime
-    100 : green
-    70 : 70
+graph LR
+    Y1["2024-2025<br/>FOUNDATIONS<br/>70% Complete"]
+    Y2["2025-2026<br/>SPECIALIZATION<br/>Planning"]
+    Y3["2026-2027<br/>RESEARCH<br/>Upcoming"]
+    Y4["2027+<br/>LEADERSHIP<br/>Vision"]
+    
+    Y1 --> Y2 --> Y3 --> Y4
+    
+    Y1 --> T1["✅ DSA Mastery<br/>✅ C++ Expert<br/>🔄 ML Basics<br/>🔄 OS Concepts"]
+    Y2 --> T2["📋 Deep Learning<br/>📋 Computer Vision<br/>📋 NLP<br/>📋 Robotics"]
+    Y3 --> T3["🔬 Research Papers<br/>🔬 ML Innovation<br/>🔬 OSS Leadership<br/>🔬 Mentorship"]
+    Y4 --> T4["🏆 AI Innovation Leader<br/>🏆 Global Impact<br/>🏆 Knowledge Pioneer"]
+    
+    style Y1 fill:#00d9ff,color:#000,stroke:#000,stroke-width:2px
+    style Y2 fill:#ffbe0b,color:#000,stroke:#000,stroke-width:2px
+    style Y3 fill:#ff9ff3,color:#fff,stroke:#000,stroke-width:2px
+    style Y4 fill:#ffd700,color:#000,stroke:#000,stroke-width:3px
 ```
 
 ### Module Breakdown:
