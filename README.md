@@ -183,7 +183,7 @@ graph LR
 
 ## 🏆 Key Achievements
 
-![Achievements](5-achievements.svg)
+![Achievements](ACHIEVEMNTS.svg)
 
 ### Achievement Metrics:
 
