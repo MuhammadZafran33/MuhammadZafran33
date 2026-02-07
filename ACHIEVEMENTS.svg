@@ -1,0 +1,112 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes scaleUp { 0% { transform: scale(0); } 100% { transform: scale(1); } }
+      @keyframes glow { 0%, 100% { filter: drop-shadow(0 0 10px rgba(0, 217, 255, 0.5)); } 50% { filter: drop-shadow(0 0 25px rgba(0, 217, 255, 1)); } }
+      @keyframes pulse { 0%, 100% { opacity: 0.7; } 50% { opacity: 1; } }
+    </style>
+    <linearGradient id="grad1" x1="0%" x2="100%">
+      <stop offset="0%" style="stop-color:#00d9ff" />
+      <stop offset="100%" style="stop-color:#0088ff" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" x2="100%">
+      <stop offset="0%" style="stop-color:#ffbe0b" />
+      <stop offset="100%" style="stop-color:#ff8800" />
+    </linearGradient>
+    <linearGradient id="grad3" x1="0%" x2="100%">
+      <stop offset="0%" style="stop-color:#ff006e" />
+      <stop offset="100%" style="stop-color:#cc0055" />
+    </linearGradient>
+    <linearGradient id="grad4" x1="0%" x2="100%">
+      <stop offset="0%" style="stop-color:#4ecdc4" />
+      <stop offset="100%" style="stop-color:#10b981" />
+    </linearGradient>
+    <linearGradient id="grad5" x1="0%" x2="100%">
+      <stop offset="0%" style="stop-color:#a855f7" />
+      <stop offset="100%" style="stop-color:#7c3aed" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="600" fill="#0a0e27"/>
+
+  <!-- Title -->
+  <text x="500" y="50" font-size="32" font-weight="bold" text-anchor="middle" fill="#ffbe0b" style="animation: glow 3s infinite;">
+    🏆 KEY ACHIEVEMENTS
+  </text>
+
+  <!-- Achievement 1: Data Structures -->
+  <g style="animation: scaleUp 0.6s ease-out;">
+    <circle cx="120" cy="180" r="50" fill="url(#grad1)"/>
+    <text x="120" y="160" font-size="28" text-anchor="middle" fill="white">15+</text>
+    <text x="120" y="220" font-size="13" text-anchor="middle" fill="#00d9ff" font-weight="bold">Data Structures</text>
+    <text x="120" y="240" font-size="11" text-anchor="middle" fill="#b0c4de">Implementations</text>
+  </g>
+
+  <!-- Achievement 2: Code Commits -->
+  <g style="animation: scaleUp 0.6s ease-out 0.1s both;">
+    <circle cx="280" cy="180" r="50" fill="url(#grad2)"/>
+    <text x="280" y="160" font-size="28" text-anchor="middle" fill="white">150+</text>
+    <text x="280" y="220" font-size="13" text-anchor="middle" fill="#ffbe0b" font-weight="bold">Code Commits</text>
+    <text x="280" y="240" font-size="11" text-anchor="middle" fill="#b0c4de">on GitHub</text>
+  </g>
+
+  <!-- Achievement 3: Code Lines -->
+  <g style="animation: scaleUp 0.6s ease-out 0.2s both;">
+    <circle cx="440" cy="180" r="50" fill="url(#grad3)"/>
+    <text x="440" y="160" font-size="28" text-anchor="middle" fill="white">2500+</text>
+    <text x="440" y="220" font-size="13" text-anchor="middle" fill="#ff006e" font-weight="bold">Code Lines</text>
+    <text x="440" y="240" font-size="11" text-anchor="middle" fill="#b0c4de">Written</text>
+  </g>
+
+  <!-- Achievement 4: Students Helped -->
+  <g style="animation: scaleUp 0.6s ease-out 0.3s both;">
+    <circle cx="600" cy="180" r="50" fill="url(#grad4)"/>
+    <text x="600" y="160" font-size="28" text-anchor="middle" fill="white">100+</text>
+    <text x="600" y="220" font-size="13" text-anchor="middle" fill="#4ecdc4" font-weight="bold">Students Helped</text>
+    <text x="600" y="240" font-size="11" text-anchor="middle" fill="#b0c4de">Knowledge Shared</text>
+  </g>
+
+  <!-- Achievement 5: Optimization -->
+  <g style="animation: scaleUp 0.6s ease-out 0.4s both;">
+    <circle cx="760" cy="180" r="50" fill="url(#grad5)"/>
+    <text x="760" y="160" font-size="28" text-anchor="middle" fill="white">30%</text>
+    <text x="760" y="220" font-size="13" text-anchor="middle" fill="#a855f7" font-weight="bold">Optimization</text>
+    <text x="760" y="240" font-size="11" text-anchor="middle" fill="#b0c4de">Performance Gain</text>
+  </g>
+
+  <!-- Additional Stats Section -->
+  <rect x="50" y="320" width="900" height="220" rx="15" fill="rgba(0,217,255,0.1)" stroke="#00d9ff" stroke-width="2"/>
+
+  <text x="500" y="360" font-size="20" font-weight="bold" text-anchor="middle" fill="#ffbe0b">
+    📊 ACHIEVEMENT SUMMARY
+  </text>
+
+  <!-- Stat 1 -->
+  <g style="animation: pulse 2s infinite;">
+    <rect x="80" y="390" width="180" height="120" rx="10" fill="rgba(0,217,255,0.15)" stroke="#00d9ff" stroke-width="2"/>
+    <text x="170" y="425" font-size="22" font-weight="bold" text-anchor="middle" fill="#00d9ff">22+</text>
+    <text x="170" y="450" font-size="12" text-anchor="middle" fill="#b0c4de">REPOSITORIES</text>
+    <text x="170" y="475" font-size="11" text-anchor="middle" fill="#ffbe0b">Active Projects</text>
+  </g>
+
+  <!-- Stat 2 -->
+  <g style="animation: pulse 2s infinite 0.3s;">
+    <rect x="320" y="390" width="180" height="120" rx="10" fill="rgba(255,190,11,0.15)" stroke="#ffbe0b" stroke-width="2"/>
+    <text x="410" y="425" font-size="22" font-weight="bold" text-anchor="middle" fill="#ffbe0b">25+</text>
+    <text x="410" y="450" font-size="12" text-anchor="middle" fill="#b0c4de">GITHUB STARS</text>
+    <text x="410" y="475" font-size="11" text-anchor="middle" fill="#00d9ff">Community Love</text>
+  </g>
+
+  <!-- Stat 3 -->
+  <g style="animation: pulse 2s infinite 0.6s;">
+    <rect x="560" y="390" width="180" height="120" rx="10" fill="rgba(255,0,110,0.15)" stroke="#ff006e" stroke-width="2"/>
+    <text x="650" y="425" font-size="22" font-weight="bold" text-anchor="middle" fill="#ff006e">85%</text>
+    <text x="650" y="450" font-size="12" text-anchor="middle" fill="#b0c4de">DATA STRUCTURES</text>
+    <text x="650" y="475" font-size="11" text-anchor="middle" fill="#ffbe0b">Mastery Level</text>
+  </g>
+
+  <!-- Bottom message -->
+  <text x="500" y="560" font-size="16" text-anchor="middle" fill="#00d9ff" font-weight="bold" style="animation: glow 3s infinite;">
+    ✨ Continuous Growth & Excellence ✨
+  </text>
+</svg>
