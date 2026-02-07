@@ -184,7 +184,7 @@ graph LR
 ## 🏆 Key Achievements
 
 
-![Achievements](ACHIEVEMNTS.svg)
+![Achievements](ACHIEVEMENTS-BEAUTIFUL.svg)
 
 
 ### Achievement Metrics:
