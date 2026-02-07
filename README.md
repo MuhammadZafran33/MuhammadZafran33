@@ -225,14 +225,14 @@ graph TD
 
 ```mermaid
 graph LR
-    A["📚 STARTFundamentals"] --> B["🧠 DATA STRUCTURES85%"]
-    B --> C["⚙️ ALGORITHMS80%"]
-    C --> D["📐 MATHEMATICS80%"]
-    D --> E["🤖 ML BASICS65%"]
-    E --> F["🧠 NEURAL NETS60%"]
-    F --> G["🚀 DEEP LEARNING55%"]
-    G --> H["👁️ COMPUTER VISION50%"]
-    H --> I["🏆 AI EXPERTMastery"]
+    A["📚 START Fundamentals"] --> B["🧠 DATA STRUCTURES 85%"]
+    B --> C["⚙️ ALGORITHMS 80%"]
+    C --> D["📐 MATHEMATICS 80%"]
+    D --> E["🤖 ML BASICS 70%"]
+    E --> F["🧠 NEURAL NETS 60%"]
+    F --> G["🚀 DEEP LEARNING 55%"]
+    G --> H["👁️ COMPUTER VISION 50%"]
+    H --> I["🏆 AI EXPERT Mastery"]
     
     style A fill:#ff6b6b,color:#fff,stroke:#000,stroke-width:2px
     style B fill:#45b7d1,color:#fff,stroke:#000,stroke-width:2px
