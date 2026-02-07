@@ -182,10 +182,7 @@ graph LR
 ---
 
 ## 🏆 Key Achievements
-
-
 ![Achievements](ACHIEVEMENTS-BEAUTIFUL.svg)
-
 
 ### Achievement Metrics:
 
