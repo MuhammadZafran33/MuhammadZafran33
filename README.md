@@ -222,44 +222,40 @@ graph TD
 
 ## 💻 Tech Stack & Tools
 
-```mermaid
-
 graph TB
-    subgraph Languages
-        L1["C++"]
-        L2["Python"]
-        L3["JavaScript"]
-        L4["HTML/CSS"]
-    end
+    A["🛠️ MY TECH ECOSYSTEM"] 
     
-    subgraph Data Science
-        D1["NumPy"]
-        D2["Pandas"]
-        D3["Scikit-learn"]
-    end
+    A --> B["PROGRAMMING LANGUAGES"]
+    A --> C["DATA SCIENCE & ML"]
+    A --> D["DEVELOPMENT TOOLS"]
     
-    subgraph ML/AI
-        M1["TensorFlow"]
-        M2["Neural Networks"]
-        M3["Deep Learning"]
-    end
+    B --> B1["C++ - Advanced"]
+    B --> B2["Python - Intermediate"]
+    B --> B3["JavaScript - Learning"]
+    B --> B4["HTML/CSS - Intermediate"]
     
-    subgraph Tools & Platforms
-        T1["Git/GitHub"]
-        T2["Linux/Bash"]
-        T3["Docker"]
-        T4["Jupyter"]
-    end
+    C --> C1["NumPy - Data Processing"]
+    C --> C2["Pandas - Analysis"]
+    C --> C3["Scikit-learn - ML"]
+    C --> C4["TensorFlow - Deep Learning"]
     
-    Languages --> Data Science
-    Data Science --> ML/AI
-    Languages --> Tools & Platforms
+    D --> D1["Git/GitHub"]
+    D --> D2["Linux/Bash"]
+    D --> D3["Docker"]
+    D --> D4["Jupyter Notebooks"]
     
-    style L1 fill:#00d9ff,color:#000
-    style D1 fill:#ffbe0b,color:#000
-    style M1 fill:#ff006e,color:#fff
-
-```
+    B1 --> E["📊 INTELLIGENT SYSTEMS"]
+    C4 --> E
+    D1 --> E
+    
+    E --> F["🚀 AI INNOVATION"]
+    
+    style A fill:#ffbe0b,stroke:#000,stroke-width:3px,color:#000
+    style E fill:#4ecdc4,stroke:#000,stroke-width:3px,color:#fff
+    style F fill:#ff006e,stroke:#000,stroke-width:3px,color:#fff
+    style B fill:#00d9ff,stroke:#000,color:#000
+    style C fill:#96ceb4,stroke:#000,color:#000
+    style D fill:#ff9ff3,stroke:#000,color:#000
 
 ---
 
