@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Quick Overview
+# 📌 Quick Overview
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🧠 Knowledge Architecture
+# 🧠 Knowledge Architecture
 
 ```mermaid
 graph TB
@@ -72,11 +72,11 @@ graph TB
 
 ---
 
-## 📈 Learning Progress Roadmap
+# 📈 Learning Progress Roadmap
 
 ![Learning Progress](2-learning-progress.svg)
 
-### Timeline Breakdown:
+## Timeline Breakdown:
 
 ```mermaid
 gantt
@@ -98,7 +98,7 @@ gantt
 
 ---
 
-## 📊 Repository Statistics
+# 📊 Repository Statistics
 
 ![Repository Stats](3-repo-statistics.svg)
 
@@ -113,7 +113,7 @@ gantt
 
 ---
 
-## 🚀 Project Breakdown
+# 🚀 Project Breakdown
 
 ![Project Breakdown](4-project-breakdown.svg)
 
