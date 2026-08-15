@@ -671,40 +671,6 @@ Neural networks from scratch, following Andrej Karpathy's course<br/>
 </div>
 
 ---
-## 🎯 2026 Roadmap
-
-<div align="center">
-
-╔═══════════════════════════════════════════════════════════════════╗
-║                    🚀 AI ENGINEERING ROADMAP                       ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  2024–2025 — Foundations (70% Complete)                            ║
-║  ├─ ✅ DSA Mastery                                                  ║
-║  ├─ ✅ C++ Proficiency                                              ║
-║  ├─ 🔄 ML Basics                                                    ║
-║  └─ 🔄 OS Concepts                                                  ║
-║  2025–2026 — Specialization (In Progress)                          ║
-║  ├─ 🧠 Deep Learning                                                ║
-║  ├─ 👁️ Computer Vision                                              ║
-║  ├─ 🔗 LLMs & RAG Systems                                           ║
-║  └─ 🤖 Agentic AI (Next Up, InshaAllah)                             ║
-║  2026–2027 — Research & Innovation                                 ║
-║  ├─ 📄 KP-DengueAI Publication                                     ║
-║  ├─ 🚨 Computer Vision Client Delivery                              ║
-║  └─ 🌟 Open-Source Contribution Growth                              ║
-║  2027+ — Community & Leadership                                    ║
-║  ├─ 🎓 AI Education Advocacy in Bannu                               ║
-║  └─ 🤝 Mentorship & Knowledge Sharing                               ║
-╚═══════════════════════════════════════════════════════════════════╝
-
-</div>
----
-## 🔥 Fun Facts & Stats (icons added)
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="60"/> Lines of Code
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="60"/> Commits
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60"/> Problems Solved
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="60"/> Students Helped
 
 ---
 
