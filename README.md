@@ -280,19 +280,21 @@ await zafran.buildIntelligentSystems();
 
 ---
 
-## 🔥 Recent Activity & Focus
+## 🔥 Recent Activity & Achievements
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="50%">
-<b>🔬 ML Research</b><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/><br/>
+<b>🔍 AI/ML Research</b><br/>
 <sub>Benchmarking models for dengue severity classification</sub><br/>
 <sub>⚡ Refining the KP-DengueAI manuscript</sub><br/>
 <sub>🎯 Focus: Healthcare AI & Journal Publication</sub>
 </td>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="70"/><br/>
 <b>🛠️ Application Development</b><br/>
 <sub>Deploying ML apps for freelance clients</sub><br/>
 <sub>⚡ Streamlit, DeepFace, Gemini API builds</sub><br/>
@@ -301,16 +303,18 @@ await zafran.buildIntelligentSystems();
 </tr>
 <tr>
 <td align="center" width="50%">
-<b>📊 Data Visualization</b><br/>
-<sub>Turning raw datasets into stakeholder-ready dashboards</sub><br/>
-<sub>⚡ Power BI, EDA & data-cleaning reports</sub><br/>
-<sub>🎯 Focus: Excelerate Traineeship Deliverables</sub>
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="70"/><br/>
+<b>📝 Documentation</b><br/>
+<sub>Writing EDA reports & dashboard summaries</sub><br/>
+<sub>⚡ Technical write-ups & data-cleaning notes</sub><br/>
+<sub>🎯 Focus: Excelerate Deliverables & Research Notes</sub>
 </td>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="70"/><br/>
 <b>📚 Continuous Learning</b><br/>
-<sub>Deepening ML theory beyond the classroom</sub><br/>
-<sub>⚡ XGBoost math, dimensionality reduction, LLMs</sub><br/>
-<sub>🎯 Focus: Agentic AI & Advanced Deep Learning</sub>
+<sub>Staying updated with the latest ML/DL techniques</sub><br/>
+<sub>⚡ Mastering LLMs, RAG systems & Agentic AI</sub><br/>
+<sub>🎯 Focus: Advanced Deep Learning & Computer Vision</sub>
 </td>
 </tr>
 </table>
@@ -318,6 +322,7 @@ await zafran.buildIntelligentSystems();
 </div>
 
 ---
+
 
 ## 🏅 Achievements
 
