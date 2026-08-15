@@ -413,18 +413,21 @@ await zafran.buildIntelligentSystems();
 <table>
 <tr>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60"/><br/>
 <b>Machine Learning</b><br/>
 <sub>• Regression & Classification</sub><br/>
 <sub>• Ensemble Methods (XGBoost math)</sub><br/>
 <sub>• Model Evaluation Metrics</sub>
 </td>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60"/><br/>
 <b>Deep Learning</b><br/>
 <sub>• Neural Network Fundamentals</sub><br/>
 <sub>• CNN-LSTM Hybrid Architectures</sub><br/>
 <sub>• Batch Normalization & Optimization</sub>
 </td>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="60"/><br/>
 <b>LLMs & Agentic AI</b><br/>
 <sub>• Transformer Architecture</sub><br/>
 <sub>• LangChain + Gemini Pipelines</sub><br/>
@@ -433,18 +436,21 @@ await zafran.buildIntelligentSystems();
 </tr>
 <tr>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="60"/><br/>
 <b>Computer Vision</b><br/>
 <sub>• Real-Time Emotion Detection</sub><br/>
 <sub>• Video-Based Event Detection</sub><br/>
 <sub>• Alerting Systems</sub>
 </td>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212281786-570e05d5-f6d2-4d67-b0fb-f7019f6ea195.gif" width="60"/><br/>
 <b>Data Visualization</b><br/>
 <sub>• Exploratory Data Analysis</sub><br/>
 <sub>• Power BI Dashboards</sub><br/>
 <sub>• Streamlit App Deployment</sub>
 </td>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212281792-3f5df7e6-1fc7-4197-882d-8dfd2a52e3f0.gif" width="60"/><br/>
 <b>Research Methodology</b><br/>
 <sub>• Hypothesis Testing & Statistics</sub><br/>
 <sub>• Dataset Engineering at Scale</sub><br/>
@@ -452,6 +458,11 @@ await zafran.buildIntelligentSystems();
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
 
 ### 🌐 Learning Platforms & Communities
 
