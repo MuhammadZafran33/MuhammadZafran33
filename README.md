@@ -315,14 +315,34 @@ await zafran.buildIntelligentSystems();
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║  🎓  Certified: Excelerate Data Visualization Traineeship       ║
-║  🎓  Certified: Arch Technologies ML Internship                 ║
-║  🧬  KP-DengueAI: LightGBM model — 96.33% accuracy               ║
-║  💼  4 SEO-optimized, active Fiverr gigs                        ║
-║  🚀  Two deployed Streamlit apps in production                  ║
-║  📢  100+ students helped through knowledge sharing             ║
+║  🎓  Certified: Excelerate Data Visualization Traineeship      ║
+║  🎓  Certified: Arch Technologies ML Internship                ║
+║  🧬  KP-DengueAI: LightGBM model — 96.33% accuracy             ║
+║  💼  4 SEO-optimized, active Fiverr gigs                       ║
+║  🚀  Two deployed Streamlit apps in production                 ║
+║  📢  100+ students helped through knowledge sharing            ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/><br/>
+<b>🔥 Try Harder</b><br/>
+<sub>Official Offensive Security Motto</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/><br/>
+<b>⚡ Industry Standard</b><br/>
+<sub>Recognized Worldwide</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50"/><br/>
+<b>⏰ 24-Hour Exam</b><br/>
+<sub>Practical Hands-on Test</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
