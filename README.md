@@ -12,7 +12,6 @@
 
 </div>
 
-<!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
@@ -23,6 +22,12 @@
 <img src="https://img.shields.io/github/followers/MuhammadZafran33?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/MuhammadZafran33?label=STARS&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Stars"/>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </div>
 
 <br/>
@@ -76,7 +81,7 @@ await zafran.buildIntelligentSystems();
 
 <br clear="right"/>
 
-### 🎯 Focus Areas
+### 🎯 Specialization Areas
 
 <table>
 <tr>
@@ -88,7 +93,7 @@ await zafran.buildIntelligentSystems();
   <td align="center" width="25%">
     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55"/><br/>
     <b>Deep Learning</b><br/>
-    <sub>CNN-LSTM | LLMs | Agentic AI</sub>
+    <sub>CNN-LSTM | Neural Nets | Optimization</sub>
   </td>
   <td align="center" width="25%">
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55"/><br/>
@@ -97,11 +102,27 @@ await zafran.buildIntelligentSystems();
   </td>
   <td align="center" width="25%">
     <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55"/><br/>
-    <b>Healthcare AI Research</b><br/>
+    <b>Research (Healthcare AI)</b><br/>
     <sub>Dengue Severity Classification</sub>
   </td>
 </tr>
 </table>
+
+---
+
+## 🗣️ Languages I Speak
+
+<div align="center">
+
+| Language | Fluency Level | Proficiency |
+|:---:|:---:|:---:|
+| 🇵🇰 **Urdu** | ▰▰▰▰▰▰▰▰▰▰ | *(fill in)* |
+| 🇬🇧 **English** | ▰▰▰▰▰▰▰▰▱▱ | *(fill in)* |
+| **Pashto** | ▰▰▰▰▰▰▱▱▱▱ | *(fill in)* |
+
+</div>
+
+> ✏️ I don't have your real fluency levels on file — swap these placeholders for your actual proficiency before publishing.
 
 ---
 
@@ -129,9 +150,9 @@ await zafran.buildIntelligentSystems();
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998&labelColor=000000)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
 ![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white&labelColor=000000)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-4B0082?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000)
 ![Algorithms](https://img.shields.io/badge/Algorithms-8B0000?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
 
 </div>
 </details>
@@ -145,9 +166,15 @@ await zafran.buildIntelligentSystems();
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=000000)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=000000)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&labelColor=000000)
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=000000)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=000000)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=000000)
+![DeepFace](https://img.shields.io/badge/DeepFace-4B0082?style=for-the-badge&labelColor=000000)
+![Prophet](https://img.shields.io/badge/Facebook_Prophet-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)
 
 </div>
 </details>
@@ -160,6 +187,7 @@ await zafran.buildIntelligentSystems();
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=000000)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&labelColor=000000)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000)
@@ -168,7 +196,20 @@ await zafran.buildIntelligentSystems();
 </details>
 
 <details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
+<summary><b>☁️ Cloud & Platforms</b></summary>
+<br/>
+
+<div align="center">
+
+![Microsoft Azure](https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=000000)
+![Google Cloud](https://img.shields.io/badge/RAG_with_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000000)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🔧 Development Tools</b></summary>
 <br/>
 
 <div align="center">
@@ -177,15 +218,117 @@ await zafran.buildIntelligentSystems();
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
-![Microsoft Azure](https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=000000)
-![Vertex AI](https://img.shields.io/badge/RAG_with_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000)
 
 </div>
 </details>
 
 ---
 
-## 📊 GitHub Analytics
+## 💡 AI Wisdom & Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+**"AI is the new electricity."**
+
+*— Andrew Ng*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<b>"Master fundamentals before frameworks"</b><br/>
+<sub>Understanding the math beneath the model builds real intuition</sub>
+</td>
+<td align="center" width="50%">
+<b>"A model is only as good as its data"</b><br/>
+<sub>Clean, well-understood data beats a fancier architecture</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<b>"Visualize before you model"</b><br/>
+<sub>EDA reveals what assumptions and metrics later depend on</sub>
+</td>
+<td align="center" width="50%">
+<b>"Knowledge shared is knowledge multiplied"</b><br/>
+<sub>Teaching AI concepts back to the community sharpens my own</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔥 Recent Activity & Focus
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<b>🔬 ML Research</b><br/>
+<sub>Benchmarking models for dengue severity classification</sub><br/>
+<sub>⚡ Refining the KP-DengueAI manuscript</sub><br/>
+<sub>🎯 Focus: Healthcare AI & Journal Publication</sub>
+</td>
+<td align="center" width="50%">
+<b>🛠️ Application Development</b><br/>
+<sub>Deploying ML apps for freelance clients</sub><br/>
+<sub>⚡ Streamlit, DeepFace, Gemini API builds</sub><br/>
+<sub>🎯 Focus: Computer Vision & Forecasting</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<b>📊 Data Visualization</b><br/>
+<sub>Turning raw datasets into stakeholder-ready dashboards</sub><br/>
+<sub>⚡ Power BI, EDA & data-cleaning reports</sub><br/>
+<sub>🎯 Focus: Excelerate Traineeship Deliverables</sub>
+</td>
+<td align="center" width="50%">
+<b>📚 Continuous Learning</b><br/>
+<sub>Deepening ML theory beyond the classroom</sub><br/>
+<sub>⚡ XGBoost math, dimensionality reduction, LLMs</sub><br/>
+<sub>🎯 Focus: Agentic AI & Advanced Deep Learning</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║  🎓  Certified: Excelerate Data Visualization Traineeship       ║
+║  🎓  Certified: Arch Technologies ML Internship                 ║
+║  🧬  KP-DengueAI: LightGBM model — 96.33% accuracy               ║
+║  💼  4 SEO-optimized, active Fiverr gigs                        ║
+║  🚀  Two deployed Streamlit apps in production                  ║
+║  📢  100+ students helped through knowledge sharing             ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📊 GitHub Contribution Stats & Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadZafran33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FFBE0B&text_color=C9D1D9&ring_color=00D9FF" />
@@ -196,27 +339,172 @@ await zafran.buildIntelligentSystems();
 
 <div align="center">
   <a href="https://github.com/MuhammadZafran33">
+    <img src="https://nirzak-streak-stats.vercel.app?user=MuhammadZafran33&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FFBE0B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9&stroke=00D9FF&currStreakNum=FFBE0B&sideNums=FFBE0B&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/MuhammadZafran33">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZafran33&bg_color=0d1117&color=00d9ff&line=ffbe0b&point=ffbe0b&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=00d9ff" alt="Contribution Graph" width="95%"/>
   </a>
 </div>
 
-> 📝 Note: `github-readme-stats` cards render fully only for public repositories — private repos won't reflect in the counts above.
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadZafran33&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadZafran33&theme=tokyonight" width="48%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadZafran33&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadZafran33&theme=tokyonight&utcOffset=5" width="48%"/>
+</div>
+
+> 📝 Note: `github-readme-stats` and `capsule-render` cards only reflect **public** repositories accurately — private repos won't show in these counts.
 
 ---
 
-## 🎓 Current Roles
+## 🎓 Knowledge Base & Resources
 
 <div align="center">
 
-| Role | Where | What it Involves |
-|:---|:---|:---|
-| **AI Undergraduate** | IM\|Sciences, Peshawar | Semester IV: AI, Database Systems, DSA, Software Engineering, COAL |
-| **Data Visualization Trainee** | Excelerate (remote internship) | EDA reports, data cleaning, Power BI dashboards, stakeholder presentations |
-| **Freelancer** | Fiverr (`muh_zafran`) | ML app deployment, dashboards, data science gigs |
-| **Committee Member** | PM Green Youth Movement (PMGYM) | Youth-led environmental & civic engagement |
-| **Volunteer** | Qalb Welfare Foundation, Bannu | Community welfare work + AI education outreach |
+### 📚 My AI/ML Arsenal
+
+<table>
+<tr>
+<td align="center" width="33%">
+<b>Machine Learning</b><br/>
+<sub>• Regression & Classification</sub><br/>
+<sub>• Ensemble Methods (XGBoost math)</sub><br/>
+<sub>• Model Evaluation Metrics</sub>
+</td>
+<td align="center" width="33%">
+<b>Deep Learning</b><br/>
+<sub>• Neural Network Fundamentals</sub><br/>
+<sub>• CNN-LSTM Hybrid Architectures</sub><br/>
+<sub>• Batch Normalization & Optimization</sub>
+</td>
+<td align="center" width="33%">
+<b>LLMs & Agentic AI</b><br/>
+<sub>• Transformer Architecture</sub><br/>
+<sub>• LangChain + Gemini Pipelines</sub><br/>
+<sub>• Prompt-Driven Chatbots</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<b>Computer Vision</b><br/>
+<sub>• Real-Time Emotion Detection</sub><br/>
+<sub>• Video-Based Event Detection</sub><br/>
+<sub>• Alerting Systems</sub>
+</td>
+<td align="center" width="33%">
+<b>Data Visualization</b><br/>
+<sub>• Exploratory Data Analysis</sub><br/>
+<sub>• Power BI Dashboards</sub><br/>
+<sub>• Streamlit App Deployment</sub>
+</td>
+<td align="center" width="33%">
+<b>Research Methodology</b><br/>
+<sub>• Hypothesis Testing & Statistics</sub><br/>
+<sub>• Dataset Engineering at Scale</sub><br/>
+<sub>• Academic Manuscript Preparation</sub>
+</td>
+</tr>
+</table>
+
+### 🌐 Learning Platforms & Communities
+
+![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)
+![Colab](https://img.shields.io/badge/Google_Colab-Experiments-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000)
+![WsCube Tech](https://img.shields.io/badge/WsCube_Tech-Data_Science_Course-FF5722?style=for-the-badge&labelColor=000000)
+![Karpathy](https://img.shields.io/badge/nn--zero--to--hero-Andrej_Karpathy-6A0DAD?style=for-the-badge&labelColor=000000)
+![Fiverr](https://img.shields.io/badge/Fiverr-Freelance_Delivery-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000)
 
 </div>
+
+---
+
+## 🛠️ Open Source Contributions
+
+<div align="center">
+
+### 🌟 Featured Projects
+
+<table>
+<tr>
+<td align="center" width="50%">
+<b>📊 Data-Structures-Lab-Solutions</b><br/>
+15+ implementations: linked lists, trees/graphs, sorting, complexity analysis<br/>
+<img src="https://img.shields.io/badge/C++-Complete-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MuhammadZafran33/Data-Structures-Lab-Solutions?style=flat-square&label=stars"/>
+</td>
+<td align="center" width="50%">
+<b>🤖 Machine-Learning-Journey</b><br/>
+Supervised/unsupervised learning, neural nets, deep learning experiments<br/>
+<img src="https://img.shields.io/badge/Python-In_Progress-yellow?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MuhammadZafran33/Machine-Learning-Journey?style=flat-square&label=stars"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<b>🔧 C++-Lab-Projects</b><br/>
+Algorithm optimization, system programs, network programming<br/>
+<img src="https://img.shields.io/badge/C++-Active-orange?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MuhammadZafran33/C%2B%2B-Lab-Projects?style=flat-square&label=stars"/>
+</td>
+<td align="center" width="50%">
+<b>🌐 Web-Development-Notebook</b><br/>
+HTML fundamentals, CSS mastery, responsive design, interactive components<br/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-Notes-blue?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MuhammadZafran33/Web-Development-Notebook?style=flat-square&label=stars"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<b>📖 Tony-Gaddis-Solutions</b><br/>
+50+ Python solutions covering OOP, file operations, algorithms<br/>
+<img src="https://img.shields.io/badge/Python-Complete-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MuhammadZafran33/Tony-Gaddis-Solutions?style=flat-square&label=stars"/>
+</td>
+<td align="center" width="50%">
+<b>🧠 nn-zero-to-hero</b><br/>
+Neural networks from scratch, following Andrej Karpathy's course<br/>
+<img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/MuhammadZafran33/nn-zero-to-hero?style=flat-square&label=stars"/>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+### 🤝 Open for Collaboration On
+
+<table>
+<tr>
+<td align="center" width="33%">
+<b>🔬 Open Source</b><br/>
+<sub>GitHub Contributions</sub><br/>
+<sub>Project Improvements</sub>
+</td>
+<td align="center" width="33%">
+<b>💼 Internships</b><br/>
+<sub>AI / ML / Data Viz roles</sub><br/>
+<sub>Remote or on-site</sub>
+</td>
+<td align="center" width="33%">
+<b>🎓 Mentorship</b><br/>
+<sub>Peer learning (both ways!)</sub><br/>
+<sub>Community AI education</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -247,50 +535,23 @@ graph LR
 
 ---
 
-## 🚀 Featured Projects
+## 🚨 Client Project — Street Conflict Detection
 
-<table>
-<tr>
-<td align="center" width="50%">
-<b>🧬 KP-DengueAI Framework</b><br/>
-Dengue severity classification research<br/>
-<sub>12 ML/DL models • Journal submission in progress</sub><br/>
-<img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Research-orange?style=flat-square"/>
-</td>
-<td align="center" width="50%">
-<b>🚨 Street Conflict Detection (Client Project)</b><br/>
-CV/DL system to flag wounded persons, attackers & weapons from video, with emergency alerting<br/>
-<sub>$10,000+ scope • End-to-end build</sub><br/>
-<img src="https://img.shields.io/badge/Computer_Vision-Deep_Learning-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-In_Planning-yellow?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<b>📊 Data-Structures-Lab-Solutions</b><br/>
-15+ implementations: linked lists, trees/graphs, sorting, complexity analysis<br/>
-<img src="https://img.shields.io/badge/C++-Complete-brightgreen?style=flat-square"/>
-</td>
-<td align="center" width="50%">
-<b>🤖 Machine-Learning-Journey</b><br/>
-Supervised/unsupervised learning, neural nets, deep learning experiments<br/>
-<img src="https://img.shields.io/badge/Python-In_Progress-yellow?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<b>🧠 nn-zero-to-hero</b><br/>
-Neural networks from scratch, following Andrej Karpathy's course<br/>
-<img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/>
-</td>
-<td align="center" width="50%">
-<b>📖 Tony-Gaddis-Solutions</b><br/>
-50+ Python solutions covering OOP, file operations, algorithms<br/>
-<img src="https://img.shields.io/badge/Python-Complete-brightgreen?style=flat-square"/>
-</td>
-</tr>
-</table>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   INPUT:  Uploaded video of a street conflict                 ║
+║   ├─ Detect: wounded person   (color-coded overlay)           ║
+║   ├─ Detect: attacker          (color-coded overlay)          ║
+║   ├─ Detect: weapon / knife    (color-coded overlay)          ║
+║   └─ Trigger: emergency-services alert, in real time          ║
+║                                                                 ║
+║   Scope: $10,000+ end-to-end computer vision & deep learning  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -374,6 +635,7 @@ graph TB
     A --> B["CS FUNDAMENTALS"]
     A --> C["ML / DEEP LEARNING"]
     A --> D["APPLIED WORK"]
+    A --> G["MATHEMATICS"]
 
     B --> B1["Data Structures & Algorithms"]
     B --> B2["Databases (relational algebra, TRC/DRC, BCNF)"]
@@ -390,22 +652,210 @@ graph TB
     D --> D3["Excelerate Data Viz Work"]
     D --> D4["CV Client Project"]
 
-    B1 & B2 & B3 & B4 & C1 & C2 & C3 & C4 & D1 & D2 & D3 & D4 --> E["🚀 INTELLIGENT SYSTEMS"]
+    G --> G1["Hypothesis Testing & Statistics"]
+    G --> G2["Linear Algebra & Calculus"]
+
+    B1 & B2 & B3 & B4 & C1 & C2 & C3 & C4 & D1 & D2 & D3 & D4 & G1 & G2 --> E["🚀 INTELLIGENT SYSTEMS"]
 
     style A fill:#ff6b6b,stroke:#333,color:#fff
     style E fill:#00d9ff,stroke:#333,color:#000
     style B fill:#45b7d1,stroke:#333,color:#fff
     style C fill:#ff9ff3,stroke:#333,color:#fff
     style D fill:#ffbe0b,stroke:#333,color:#000
+    style G fill:#96ceb4,stroke:#333,color:#fff
 ```
+
+---
+
+## 🎯 Near-Term Goals & Roadmap
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                    🚀 GOALS ROADMAP                                ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                     ║
+║  Research                                                          ║
+║  ├─ 🧬 Finish EDA on the full translated SINAN dataset             ║
+║  ├─ 📄 Submit the KP-DengueAI manuscript for journal review        ║
+║  └─ 🔬 Deepen CNN-LSTM hybrid architecture work                    ║
+║                                                                     ║
+║  Applied / Client Work                                             ║
+║  ├─ 🚨 Deliver the street-conflict computer-vision project          ║
+║  ├─ 💼 Grow the Fiverr gig portfolio                                ║
+║  └─ 📊 Complete remaining Excelerate deliverables                  ║
+║                                                                     ║
+║  Learning                                                          ║
+║  ├─ 🧠 Go deeper into LLMs & Agentic AI                            ║
+║  ├─ 👁️ Build stronger Computer Vision fundamentals                 ║
+║  └─ 🤖 Continue Karpathy's nn-zero-to-hero series                  ║
+║                                                                     ║
+║  Community                                                         ║
+║  ├─ 📢 Keep promoting AI education in Bannu                        ║
+║  └─ 🌿 Stay active with PMGYM & Qalb Welfare Foundation             ║
+║                                                                     ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🔥 Fun Facts & Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<b>💻 Lines of Code</b><br/>
+<sub>2,500+ written</sub><br/>
+<sub>Mostly Python & C++</sub>
+</td>
+<td align="center" width="25%">
+<b>📈 Commits</b><br/>
+<sub>150+ regular contributions</sub><br/>
+<sub>Across 22+ repositories</sub>
+</td>
+<td align="center" width="25%">
+<b>🧩 Problems Solved</b><br/>
+<sub>200+ continuous practice</sub><br/>
+<sub>DSA & algorithms</sub>
+</td>
+<td align="center" width="25%">
+<b>🎓 Students Helped</b><br/>
+<sub>100+ through knowledge sharing</sub><br/>
+<sub>READMEs, notes, mentoring</sub>
+</td>
+</tr>
+</table>
+
+### 📊 Research & Build Workflow
+
+```
+    ┌───────────────────────┐
+    │  Problem Definition   │
+    └──────────┬────────────┘
+               │
+    ┌──────────▼────────────┐
+    │ Data Collection &     │
+    │ Cleaning              │
+    └──────────┬────────────┘
+               │
+    ┌──────────▼────────────┐
+    │ Exploratory Analysis  │
+    │ (EDA)                 │
+    └──────────┬────────────┘
+               │
+    ┌──────────▼────────────┐
+    │  Model Building        │
+    └──────────┬────────────┘
+               │
+    ┌──────────▼────────────┐
+    │ Evaluation & Tuning   │
+    └──────────┬────────────┘
+               │
+    ┌──────────▼────────────┐
+    │  Deployment             │
+    │ (Streamlit / Power BI) │
+    └──────────┬────────────┘
+               │
+    ┌──────────▼────────────┐
+    │ Documentation &        │
+    │ Sharing                │
+    └─────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+```
+╔═══════════════════════════════════════════════════════╗
+║              GITHUB ANALYTICS                          ║
+╠═══════════════════════════════════════════════════════╣
+║ Public Repositories:      22+                          ║
+║ Total Commits:            150+                         ║
+║ Code Contributions:       2,500+ lines                 ║
+║ Followers:                21+                          ║
+║ Following:                50+                          ║
+║ Stars Received:           25+                          ║
+║ Most Used Language:       C++ / Python                 ║
+║ Repositories Updated:     Regularly 🔄                 ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🌟 Support My Work
+
+If you find my repositories helpful:
+- ⭐ **Star** my repositories
+- 🔄 **Fork** and contribute
+- 📢 **Share** with others
+- 💬 **Discuss** ideas
+- 🤝 **Collaborate** on projects
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Stay%20Curious%20•%20Build%20Deliberately%20•%20Teach%20Along%20the%20Way&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 💭 Philosophy
+### 🌟 Quick Links Navigation
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="#-about-me"><img src="https://img.shields.io/badge/About_Me-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000"/></a>
+</td>
+<td align="center">
+<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/Tech_Stack-FFBE0B?style=for-the-badge&logoColor=black&labelColor=000000"/></a>
+</td>
+<td align="center">
+<a href="#-certifications"><img src="https://img.shields.io/badge/Certifications-FF006E?style=for-the-badge&logoColor=white&labelColor=000000"/></a>
+</td>
+<td align="center">
+<a href="#-research-spotlight--kp-dengueai-framework"><img src="https://img.shields.io/badge/Research-4ECDC4?style=for-the-badge&logoColor=black&labelColor=000000"/></a>
+</td>
+<td align="center">
+<a href="#-connect-with-me"><img src="https://img.shields.io/badge/Connect-00CED1?style=for-the-badge&logoColor=white&labelColor=000000"/></a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🎓 AI Researcher & Educator's Creed
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   I will build systems that inform and help, not mislead or harm.  ║
+║                                                                      ║
+║   I will ground my models in clean data and honest evaluation,      ║
+║   not in numbers that only look good on a slide.                    ║
+║                                                                      ║
+║   I will document my work so others can learn from it.              ║
+║                                                                      ║
+║   I will share what I know with my community in Bannu               ║
+║   and beyond, because knowledge multiplies when it's shared.        ║
+║                                                                      ║
+║   I am a student first, and I will stay one.                        ║
+║                                                                      ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Stay%20Curious%20•%20Build%20Deliberately%20•%20Teach%20Along%20the%20Way&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
+### 💭 Final Thoughts
 
 *"Master the fundamentals deeply, build breadth strategically, and apply knowledge*
 *practically to create intelligent systems that make a difference."*
@@ -415,6 +865,14 @@ graph TB
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadZafran33&style=for-the-badge&color=00d9ff&label=TOTAL+PROFILE+VISITORS"/>
+
+<br/><br/>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MuhammadZafran33/MuhammadZafran33&type=Date&theme=dark)](https://star-history.com/#MuhammadZafran33/MuhammadZafran33&Date)
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%9A%A1+Keep+Learning%2C+Keep+Building%2C+Stay+Curious+%E2%9A%A1;%F0%9F%A4%96+Fundamentals+today%2C+intelligent+systems+tomorrow+%F0%9F%A4%96" alt="Footer Message" />
 
 <br/><br/>
 
