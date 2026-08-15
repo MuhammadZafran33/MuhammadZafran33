@@ -463,8 +463,53 @@ await zafran.buildIntelligentSystems();
 
 ---
 
+## 🌐 Platforms & Recognition
 
-### 🌐 Learning Platforms & Communities
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"/><br/>
+<b>Fiverr</b><br/>
+<sub>🏆 Active Freelancer</sub><br/>
+<sub>⭐ 4 Live Gigs</sub><br/>
+<sub>💼 Deployed ML Apps</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50"/><br/>
+<b>GitHub</b><br/>
+<sub>🏆 22+ Repositories</sub><br/>
+<sub>⭐ 25+ Stars</sub><br/>
+<sub>📈 150+ Commits</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="50"/><br/>
+<b>Kaggle</b><br/>
+<sub>📓 Notebooks & Datasets</sub><br/>
+<sub>🔬 Model Experiments</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50"/><br/>
+<b>LinkedIn</b><br/>
+<sub>🤝 Professional Network</sub><br/>
+<sub>📢 Career Updates</sub>
+</td>
+</tr>
+</table>
+
+### 🎯 Certified & Trained By
+
+![Microsoft](https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-RAG_with_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000)
+![Excelerate](https://img.shields.io/badge/Excelerate-Certified-6A0DAD?style=for-the-badge&labelColor=000000)
+![Arch Technologies](https://img.shields.io/badge/Arch_Technologies-ML_Certified-DC382D?style=for-the-badge&labelColor=000000)
+
+</div>
+
+---
+
+### 🌐 Learning Communities
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000)
 ![Colab](https://img.shields.io/badge/Google_Colab-Experiments-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000)
@@ -485,12 +530,14 @@ await zafran.buildIntelligentSystems();
 <table>
 <tr>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"><br/>
 <b>📊 Data-Structures-Lab-Solutions</b><br/>
 15+ implementations: linked lists, trees/graphs, sorting, complexity analysis<br/>
 <img src="https://img.shields.io/badge/C++-Complete-brightgreen?style=flat-square"/>
 <img src="https://img.shields.io/github/stars/MuhammadZafran33/Data-Structures-Lab-Solutions?style=flat-square&label=stars"/>
 </td>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br/>
 <b>🤖 Machine-Learning-Journey</b><br/>
 Supervised/unsupervised learning, neural nets, deep learning experiments<br/>
 <img src="https://img.shields.io/badge/Python-In_Progress-yellow?style=flat-square"/>
@@ -499,12 +546,14 @@ Supervised/unsupervised learning, neural nets, deep learning experiments<br/>
 </tr>
 <tr>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"><br/>
 <b>🔧 C++-Lab-Projects</b><br/>
 Algorithm optimization, system programs, network programming<br/>
 <img src="https://img.shields.io/badge/C++-Active-orange?style=flat-square"/>
 <img src="https://img.shields.io/github/stars/MuhammadZafran33/C%2B%2B-Lab-Projects?style=flat-square&label=stars"/>
 </td>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"><br/>
 <b>🌐 Web-Development-Notebook</b><br/>
 HTML fundamentals, CSS mastery, responsive design, interactive components<br/>
 <img src="https://img.shields.io/badge/HTML%2FCSS-Notes-blue?style=flat-square"/>
@@ -513,12 +562,16 @@ HTML fundamentals, CSS mastery, responsive design, interactive components<br/>
 </tr>
 <tr>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"><br/>
 <b>📖 Tony-Gaddis-Solutions</b><br/>
 50+ Python solutions covering OOP, file operations, algorithms<br/>
 <img src="https://img.shields.io/badge/Python-Complete-brightgreen?style=flat-square"/>
 <img src="https://img.shields.io/github/stars/MuhammadZafran33/Tony-Gaddis-Solutions?style=flat-square&label=stars"/>
 </td>
 <td align="center" width="50%">
+  
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d1a68e-c5f7-4c7d-a14e-f8e32d2e84c3.png" width="60"><br/>
+  
 <b>🧠 nn-zero-to-hero</b><br/>
 Neural networks from scratch, following Andrej Karpathy's course<br/>
 <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/>
@@ -526,33 +579,49 @@ Neural networks from scratch, following Andrej Karpathy's course<br/>
 </td>
 </tr>
 </table>
+
 </div>
 
-<br/>
+---
 
 ### 🤝 Open for Collaboration On
 
 <table>
 <tr>
 <td align="center" width="33%">
-<b>🔬 Open Source</b><br/>
-<sub>GitHub Contributions</sub><br/>
-<sub>Project Improvements</sub>
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d1a68e-c5f7-4c7d-a14e-f8e32d2e84c3.png" width="50"/><br/>
+<b>🔬 Research Collaboration</b><br/>
+<sub>Healthcare AI</sub><br/>
+<sub>Model Benchmarking</sub><br/>
+<sub>Paper Co-Authoring</sub>
 </td>
 <td align="center" width="33%">
-<b>💼 Internships</b><br/>
-<sub>AI / ML / Data Viz roles</sub><br/>
-<sub>Remote or on-site</sub>
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"/><br/>
+<b>🛠️ Open Source</b><br/>
+<sub>ML/DL Projects</sub><br/>
+<sub>App Deployment</sub><br/>
+<sub>Community Projects</sub>
 </td>
 <td align="center" width="33%">
-<b>🎓 Mentorship</b><br/>
-<sub>Peer learning (both ways!)</sub><br/>
-<sub>Community AI education</sub>
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"/><br/>
+<b>🎓 Knowledge Sharing</b><br/>
+<sub>Mentoring Students</sub><br/>
+<sub>AI Education (Bannu)</sub><br/>
+<sub>Peer Learning</sub>
 </td>
 </tr>
 </table>
 
+<br/>
+
+### 📧 Reach Out
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:zafrankhaan33@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/923249854807)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/muhammad-zafran-93344a352)
+
 ---
+
 
 ## 🔬 Research Spotlight — KP-DengueAI Framework
 
