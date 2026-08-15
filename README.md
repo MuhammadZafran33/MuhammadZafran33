@@ -621,7 +621,92 @@ Neural networks from scratch, following Andrej Karpathy's course<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/muhammad-zafran-93344a352)
 
 ---
+**💡 Available for:**
+- 📊 Data Visualization & Dashboard Consulting
+- 🤖 ML/DL Freelance Project Collaboration
+- 🛠️ Custom App Development (Streamlit, Chatbots, Forecasting)
+- 📚 AI Concept Tutoring & Study Group Sessions
+- 🗣️ Community AI Talks & Workshops (Bannu outreach)
 
+---
+## 🎮 AI/ML Practice Platforms
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/235294003-9a9fd2ae-ff84-4069-b999-6e7f8c3f2f98.gif" width="50"/><br/>
+<b>Kaggle</b><br/>
+<sub>📓 Notebooks</sub><br/>
+<sub>⭐ Practice & Experiments</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/235294004-23c0c7f2-5d4f-4c94-ab29-7fccac6f38a7.gif" width="50"/><br/>
+<b>Google Colab</b><br/>
+<sub>🔬 Model Experiments</sub><br/>
+<sub>⭐ GPU Prototyping</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/235294005-2c7891db-ecfd-4a9f-adb2-ab4067ca3a27.gif" width="50"/><br/>
+<b>WsCube Tech</b><br/>
+<sub>🎓 Data Science Course</sub><br/>
+<sub>⭐ Completed Modules</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/235294009-33d94a45-0b40-4b08-a4df-e15b4ba1f88c.gif" width="50"/><br/>
+<b>nn-zero-to-hero</b><br/>
+<sub>🧠 Andrej Karpathy</sub><br/>
+<sub>⭐ In Progress</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50"/><br/>
+<b>GitHub</b><br/>
+<sub>💻 22+ Repositories</sub><br/>
+<sub>⭐ 25+ Stars</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+## 🎯 2026 Roadmap
+
+<div align="center">
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                    🚀 AI ENGINEERING ROADMAP                       ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  2024–2025 — Foundations (70% Complete)                            ║
+║  ├─ ✅ DSA Mastery                                                  ║
+║  ├─ ✅ C++ Proficiency                                              ║
+║  ├─ 🔄 ML Basics                                                    ║
+║  └─ 🔄 OS Concepts                                                  ║
+║  2025–2026 — Specialization (In Progress)                          ║
+║  ├─ 🧠 Deep Learning                                                ║
+║  ├─ 👁️ Computer Vision                                              ║
+║  ├─ 🔗 LLMs & RAG Systems                                           ║
+║  └─ 🤖 Agentic AI (Next Up, InshaAllah)                             ║
+║  2026–2027 — Research & Innovation                                 ║
+║  ├─ 📄 KP-DengueAI Publication                                     ║
+║  ├─ 🚨 Computer Vision Client Delivery                              ║
+║  └─ 🌟 Open-Source Contribution Growth                              ║
+║  2027+ — Community & Leadership                                    ║
+║  ├─ 🎓 AI Education Advocacy in Bannu                               ║
+║  └─ 🤝 Mentorship & Knowledge Sharing                               ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+</div>
+---
+## 🔥 Fun Facts & Stats (icons added)
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="60"/> Lines of Code
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="60"/> Commits
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60"/> Problems Solved
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="60"/> Students Helped
+
+---
 
 ## 🔬 Research Spotlight — KP-DengueAI Framework
 
