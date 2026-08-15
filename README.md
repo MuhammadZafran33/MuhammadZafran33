@@ -233,6 +233,7 @@ await zafran.buildIntelligentSystems();
 <tr>
 <td align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50"/><br/>
 **"AI is the new electricity."**
 
 *— Andrew Ng*
@@ -243,23 +244,32 @@ await zafran.buildIntelligentSystems();
 
 <br/>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In+AI,+there+are+no+shortcuts.+Only+methodical+persistence.&author=Mr+Zafran&border=true&animation=grow_out_in"/>
+
+<br/>
+
 <table>
 <tr>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60"/><br/>  
 <b>"Master fundamentals before frameworks"</b><br/>
 <sub>Understanding the math beneath the model builds real intuition</sub>
 </td>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="60"/><br/>
+<b>"Trust, but verify"</b><br/>
 <b>"A model is only as good as its data"</b><br/>
 <sub>Clean, well-understood data beats a fancier architecture</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="60"/><br/>
 <b>"Visualize before you model"</b><br/>
 <sub>EDA reveals what assumptions and metrics later depend on</sub>
 </td>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="60"/><br/>
 <b>"Knowledge shared is knowledge multiplied"</b><br/>
 <sub>Teaching AI concepts back to the community sharpens my own</sub>
 </td>
