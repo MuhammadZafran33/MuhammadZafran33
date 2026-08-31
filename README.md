@@ -1021,6 +1021,8 @@ If you find my repositories helpful:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Stay%20Curious%20•%20Build%20Deliberately%20•%20Teach%20Along%20the%20Way&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/> -->
 
+---
+
 <div align="center">
 
 ### 💭 Final Thoughts
@@ -1042,6 +1044,8 @@ If you find my repositories helpful:
 
 <br/><br/> -->
 
+---
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%9A%A1+Keep+Learning%2C+Keep+Building%2C+Stay+Curious+%E2%9A%A1;%F0%9F%A4%96+Fundamentals+today%2C+intelligent+systems+tomorrow+%F0%9F%A4%96" alt="Footer Message" />
@@ -1049,6 +1053,8 @@ If you find my repositories helpful:
 </div>
 
 <br/><br/>
+
+---
 
 <div align="center">
 
