@@ -1056,12 +1056,17 @@ If you find my repositories helpful:
 
 ---
 
+<!--
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadZafran33&hide=html)
 ![Zafran's github stats](https://github-readme-stats-fast.vercel.app/api?username=MuhammadZafran33&show_icons=true&count_private=true&line_height=40)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadZafran33&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadZafran33&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadZafran33&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadZafran33&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadZafran33&theme=tokyonight&utcOffset=5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+
+## 🗣️ Languages I Speak
+This whole section is hidden until I fill in real numbers.
 
 ---
 
@@ -1072,6 +1077,9 @@ If you find my repositories helpful:
 - [nn-zero-to-hero](https://github.com/MuhammadZafran33/nn-zero-to-hero) ![Stars](https://img.shields.io/github/stars/MuhammadZafran33/nn-zero-to-hero?label=Power%20Level&style=social)
 
 Support my work on [Fiverr](https://fiverr.com/muh_zafran) 💖
+
+-->
+
 
 ---
 
