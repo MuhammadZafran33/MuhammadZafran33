@@ -1065,6 +1065,16 @@ If you find my repositories helpful:
 
 ---
 
+### ⭐ Top Repositories
+
+- [Data-Structures-Lab-Solutions](https://github.com/MuhammadZafran33/Data-Structures-Lab-Solutions) ![Stars](https://img.shields.io/github/stars/MuhammadZafran33/Data-Structures-Lab-Solutions?label=Power%20Level&style=social)
+- [Machine-Learning-Journey](https://github.com/MuhammadZafran33/Machine-Learning-Journey) ![Stars](https://img.shields.io/github/stars/MuhammadZafran33/Machine-Learning-Journey?label=Power%20Level&style=social)
+- [nn-zero-to-hero](https://github.com/MuhammadZafran33/nn-zero-to-hero) ![Stars](https://img.shields.io/github/stars/MuhammadZafran33/nn-zero-to-hero?label=Power%20Level&style=social)
+
+Support my work on [Fiverr](https://fiverr.com/muh_zafran) 💖
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Stay%20Curious%20•%20Build%20Deliberately%20•%20Teach%20Along%20the%20Way&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
