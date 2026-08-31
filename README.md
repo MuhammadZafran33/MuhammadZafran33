@@ -1056,6 +1056,15 @@ If you find my repositories helpful:
 
 ---
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammadZafran33&hide=html)
+![Zafran's github stats](https://github-readme-stats-fast.vercel.app/api?username=MuhammadZafran33&show_icons=true&count_private=true&line_height=40)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadZafran33&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadZafran33&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadZafran33&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadZafran33&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadZafran33&theme=tokyonight&utcOffset=5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Stay%20Curious%20•%20Build%20Deliberately%20•%20Teach%20Along%20the%20Way&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
