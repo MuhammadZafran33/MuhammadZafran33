@@ -1,3 +1,15 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadZafran33/ML-Internships/main/dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadZafran33/ML-Internships/main/light_mode.svg">
+  <img alt="Muhammad Zafran - GitHub profile card" src="https://raw.githubusercontent.com/MuhammadZafran33/ML-Internships/main/dark_mode.svg">
+</picture>
+
+
+
+
+
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -1093,9 +1105,3 @@ Support my work on [Fiverr](https://fiverr.com/muh_zafran) 💖
 </div>
 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadZafran33/ML-Internships/main/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadZafran33/ML-Internships/main/light_mode.svg">
-  <img alt="Muhammad Zafran - GitHub profile card" src="https://raw.githubusercontent.com/MuhammadZafran33/ML-Internships/main/dark_mode.svg">
-</picture>
